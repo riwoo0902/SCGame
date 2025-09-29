@@ -2,18 +2,26 @@ using UnityEngine;
 
 namespace Lrw_Boss
 {
-    public class BossAttack : MonoBehaviour
+    public class BossAttack : BossState
     {
-        // Start is called once before the first execution of Update after the MonoBehaviour is created
-        void Start()
+        public BossAttack(Boss boss) : base(boss)
         {
 
         }
 
-        // Update is called once per frame
-        void Update()
+        public override void Enter()
         {
+            Debug.Log("공격시작");
+        }
 
+        public override void Exit()
+        {
+            Debug.Log("공격종료");
+        }
+
+        public override void Update()
+        {
+            Debug.Log("공격중");
         }
     }
 }
