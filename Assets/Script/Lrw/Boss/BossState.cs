@@ -4,7 +4,7 @@ namespace Lrw_Boss
 {
     public abstract class BossState
     {
-        Boss _boss;
+        protected Boss _boss;
         public BossState(Boss boss)
         {
             _boss = boss;

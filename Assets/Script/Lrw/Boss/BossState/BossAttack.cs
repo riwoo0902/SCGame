@@ -11,7 +11,12 @@ namespace Lrw_Boss
 
         public override void Enter()
         {
-            Debug.Log("공격시작");
+            
+        }
+
+        public override void Update()
+        {
+            Debug.Log("공격중");
         }
 
         public override void Exit()
@@ -19,10 +24,6 @@ namespace Lrw_Boss
             Debug.Log("공격종료");
         }
 
-        public override void Update()
-        {
-            Debug.Log("공격중");
-        }
     }
 }
 

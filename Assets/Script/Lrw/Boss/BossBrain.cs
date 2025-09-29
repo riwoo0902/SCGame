@@ -1,6 +1,4 @@
 using System.Collections.Generic;
-using Lrw_CustomReadonly;
-using UnityEngine;
 
 namespace Lrw_Boss
 {
@@ -9,13 +7,17 @@ namespace Lrw_Boss
         private BossState _currentBossState;
         private Dictionary<BossStates, BossState> _bossStateDic = new();
         private Boss _boos;
-        
 
         public BossBrain(Boss boos)
         {
+            CreateBossState(BossStates.Idle, new BossIdle(_boos));
             CreateBossState(BossStates.Attack, new BossAttack(_boos));
+            CreateBossState(BossStates.Hide, new BossHide(_boos));
 
-            StartBossState(BossStates.Attack);
+
+
+
+            StartBossState(BossStates.Idle);
         }
 
         private void CreateBossState(BossStates bossStates, BossState bossState)
@@ -41,9 +43,10 @@ namespace Lrw_Boss
         }
 
     }
+
     public enum BossStates
     {
-        Attack,Speak,Idle
+        Attack,Speak,Idle,Hide
     }
 
 }
