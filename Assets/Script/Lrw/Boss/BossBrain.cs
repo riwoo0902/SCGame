@@ -10,6 +10,7 @@ namespace Lrw_Boss
 
         public BossBrain(Boss boos)
         {
+            _boos = boos;
             CreateBossState(BossStates.Idle, new BossIdle(_boos));
             CreateBossState(BossStates.Attack1, new BossAttack1(_boos));
             CreateBossState(BossStates.Attack2, new BossAttack2(_boos));

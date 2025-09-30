@@ -6,7 +6,7 @@ namespace Lrw_Boss
     {
         public BossAttack1(Boss boss) : base(boss)
         {
-
+            
         }
 
         public override void Enter()

@@ -6,7 +6,7 @@ namespace Lrw_Boss
     {
         public BossHide(Boss boss) : base(boss)
         {
-
+            
         }
 
         public override void Enter()
