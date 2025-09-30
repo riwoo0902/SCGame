@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: 4b9aa981cd8ac5844bf514eaa7965b8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1275474203305068022
+    second: Kinetic_shield_strike-Sheet_0
+  - first:
+      213: -2311422525902914924
+    second: Kinetic_shield_strike-Sheet_1
+  - first:
+      213: 8065647328109063925
+    second: Kinetic_shield_strike-Sheet_2
+  - first:
+      213: 5422087298686904275
+    second: Kinetic_shield_strike-Sheet_3
+  - first:
+      213: 3454558950070125887
+    second: Kinetic_shield_strike-Sheet_4
+  - first:
+      213: -8837760440615042124
+    second: Kinetic_shield_strike-Sheet_5
+  - first:
+      213: -7014755444167183164
+    second: Kinetic_shield_strike-Sheet_6
+  - first:
+      213: -3930148310245496552
+    second: Kinetic_shield_strike-Sheet_7
+  - first:
+      213: -2544535685138640170
+    second: Kinetic_shield_strike-Sheet_8
+  - first:
+      213: 3806168435982766760
+    second: Kinetic_shield_strike-Sheet_9
+  - first:
+      213: -3361931515485046111
+    second: Kinetic_shield_strike-Sheet_10
+  - first:
+      213: -5945328072526473178
+    second: Kinetic_shield_strike-Sheet_11
+  - first:
+      213: 1227941701614657688
+    second: Kinetic_shield_strike-Sheet_12
+  - first:
+      213: -7190186714594963680
+    second: Kinetic_shield_strike-Sheet_13
+  - first:
+      213: -2468803061347117433
+    second: Kinetic_shield_strike-Sheet_14
+  - first:
+      213: -545808893134957944
+    second: Kinetic_shield_strike-Sheet_15
+  - first:
+      213: -1338113076565361394
+    second: Kinetic_shield_strike-Sheet_16
+  - first:
+      213: -2892696111457229251
+    second: Kinetic_shield_strike-Sheet_17
+  - first:
+      213: -6074353484365799327
+    second: Kinetic_shield_strike-Sheet_18
+  - first:
+      213: 5826747527028501266
+    second: Kinetic_shield_strike-Sheet_19
+  - first:
+      213: -4262785540192602999
+    second: Kinetic_shield_strike-Sheet_20
+  - first:
+      213: 4350013616202045600
+    second: Kinetic_shield_strike-Sheet_21
+  - first:
+      213: -4871019845356817358
+    second: Kinetic_shield_strike-Sheet_22
+  - first:
+      213: -4232795974938008223
+    second: Kinetic_shield_strike-Sheet_23
+  - first:
+      213: 328490780086387
+    second: Kinetic_shield_strike-Sheet_24
+  - first:
+      213: 6291696594843979325
+    second: Kinetic_shield_strike-Sheet_25
+  - first:
+      213: -2840074457472270181
+    second: Kinetic_shield_strike-Sheet_26
+  - first:
+      213: -470867833160589332
+    second: Kinetic_shield_strike-Sheet_27
+  - first:
+      213: 5178187604257355985
+    second: Kinetic_shield_strike-Sheet_28
+  - first:
+      213: 1547720705665847765
+    second: Kinetic_shield_strike-Sheet_29
+  - first:
+      213: 1103374193128705502
+    second: Kinetic_shield_strike-Sheet_30
+  - first:
+      213: -3253742656520150823
+    second: Kinetic_shield_strike-Sheet_31
+  - first:
+      213: 242035204669614543
+    second: Kinetic_shield_strike-Sheet_32
+  - first:
+      213: -6392567153508961476
+    second: Kinetic_shield_strike-Sheet_33
+  - first:
+      213: -1988110278612568311
+    second: Kinetic_shield_strike-Sheet_34
+  - first:
+      213: -8823648548966907428
+    second: Kinetic_shield_strike-Sheet_35
+  - first:
+      213: 5024501930416891177
+    second: Kinetic_shield_strike-Sheet_36
+  - first:
+      213: -3614189796407215701
+    second: Kinetic_shield_strike-Sheet_37
+  - first:
+      213: -1541630767481700849
+    second: Kinetic_shield_strike-Sheet_38
+  - first:
+      213: 3140688377216267695
+    second: Kinetic_shield_strike-Sheet_39
+  - first:
+      213: -5931470372061331794
+    second: Kinetic_shield_strike-Sheet_40
+  - first:
+      213: 6944133407103698927
+    second: Kinetic_shield_strike-Sheet_41
+  - first:
+      213: -2432176288110724591
+    second: Kinetic_shield_strike-Sheet_42
+  - first:
+      213: -2784108787822950999
+    second: Kinetic_shield_strike-Sheet_43
+  - first:
+      213: -4184343826545574167
+    second: Kinetic_shield_strike-Sheet_44
+  - first:
+      213: -6175536580177305063
+    second: Kinetic_shield_strike-Sheet_45
+  - first:
+      213: -1274243487109783137
+    second: Kinetic_shield_strike-Sheet_46
+  - first:
+      213: -1676493056639881654
+    second: Kinetic_shield_strike-Sheet_47
+  - first:
+      213: -46710197141219129
+    second: Kinetic_shield_strike-Sheet_48
+  - first:
+      213: 1368452450642580144
+    second: Kinetic_shield_strike-Sheet_49
+  - first:
+      213: -6533037085670279924
+    second: Kinetic_shield_strike-Sheet_50
+  - first:
+      213: 994862938675061777
+    second: Kinetic_shield_strike-Sheet_51
+  - first:
+      213: 3835497889878743810
+    second: Kinetic_shield_strike-Sheet_52
+  - first:
+      213: -3957857122180649709
+    second: Kinetic_shield_strike-Sheet_53
+  - first:
+      213: -8605407653428018240
+    second: Kinetic_shield_strike-Sheet_54
+  - first:
+      213: 1766746964613774097
+    second: Kinetic_shield_strike-Sheet_55
+  - first:
+      213: 8360359020105636832
+    second: Kinetic_shield_strike-Sheet_56
+  - first:
+      213: 4844422502795335441
+    second: Kinetic_shield_strike-Sheet_57
+  - first:
+      213: 8480588481419950157
+    second: Kinetic_shield_strike-Sheet_58
+  - first:
+      213: 2920097216029739550
+    second: Kinetic_shield_strike-Sheet_59
+  - first:
+      213: -5312966005624775854
+    second: Kinetic_shield_strike-Sheet_60
+  - first:
+      213: 7486021757933052232
+    second: Kinetic_shield_strike-Sheet_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 102
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f54c28b70563b110800000000000000
+      internalID: 1275474203305068022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 105
+        width: 73
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a78b9857d2cefd0800000000000000
+      internalID: -2311422525902914924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 107
+        width: 96
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fee483e28feeef60800000000000000
+      internalID: 8065647328109063925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 18
+        width: 120
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7e363bbaf1f3b40800000000000000
+      internalID: 5422087298686904275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 120
+        width: 123
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f358392ef0f01ff20800000000000000
+      internalID: 3454558950070125887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 51
+        width: 117
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3042724b7f95580800000000000000
+      internalID: -8837760440615042124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 103
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c47d2cd61596ae90800000000000000
+      internalID: -7014755444167183164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 112
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81927354fee4579c0800000000000000
+      internalID: -3930148310245496552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 28
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d29101a64effacd0800000000000000
+      internalID: -2544535685138640170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a29e0ec60a32d430800000000000000
+      internalID: 3806168435982766760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 8
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aab25459150851d0800000000000000
+      internalID: -3361931515485046111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 26
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628d6e32e93fd7da0800000000000000
+      internalID: -5945328072526473178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 25
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89061a1c8768a0110800000000000000
+      internalID: 1227941701614657688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 66
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f85df3743573c90800000000000000
+      internalID: -7190186714594963680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 62
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786120c22bc0dbdd0800000000000000
+      internalID: -2468803061347117433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 25
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882117914b5ec68f0800000000000000
+      internalID: -545808893134957944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 24
+        width: 93
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d340a1f311e6de0800000000000000
+      internalID: -1338113076565361394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 72
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36207976341bd7d0800000000000000
+      internalID: -2892696111457229251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 25
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160683470bf83bba0800000000000000
+      internalID: -6074353484365799327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 38
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b6b602104ccd050800000000000000
+      internalID: 5826747527028501266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 64
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984f52be22b87d4c0800000000000000
+      internalID: -4262785540192602999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8d5d9265a5e5c30800000000000000
+      internalID: 4350013616202045600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 43
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234f0a72249a66cb0800000000000000
+      internalID: -4871019845356817358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 34
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165ed13bc761245c0800000000000000
+      internalID: -4232795974938008223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 34
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3705248b2ca210000800000000000000
+      internalID: 328490780086387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 39
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ec53ad7b8905750800000000000000
+      internalID: 6291696594843979325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 29
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9084ba04570698d0800000000000000
+      internalID: -2840074457472270181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 28
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef1e4453342779f0800000000000000
+      internalID: -470867833160589332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 9
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8371cd03e9cd740800000000000000
+      internalID: 5178187604257355985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 45
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1dab818cb9a7510800000000000000
+      internalID: 1547720705665847765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 25
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd05c39bf8ff4f00800000000000000
+      internalID: 1103374193128705502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 69
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0a49ffa4268d2d0800000000000000
+      internalID: -3253742656520150823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 25
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9a87d7cb1eb5300800000000000000
+      internalID: 242035204669614543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 67
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33b44c0b0a0947a0800000000000000
+      internalID: -6392567153508961476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 54
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907befc2c30d864e0800000000000000
+      internalID: -1988110278612568311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 56
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1cfe7f46a1c8580800000000000000
+      internalID: -8823648548966907428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 33
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92563cf72ed9ab540800000000000000
+      internalID: 5024501930416891177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 58
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba97e4a6781d7ddc0800000000000000
+      internalID: -3614189796407215701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 54
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0eb0712cf60b9ae0800000000000000
+      internalID: -1541630767481700849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 46
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa57c226077f59b20800000000000000
+      internalID: 3140688377216267695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 17
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaeb7857f1f2fada0800000000000000
+      internalID: -5931470372061331794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 18
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7c65bca848e5060800000000000000
+      internalID: 6944133407103698927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 53
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a380c5d8c2f3ed0800000000000000
+      internalID: -2432176288110724591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 73
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a505cdeecbdc59d0800000000000000
+      internalID: -2784108787822950999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 25
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eef6a895793ee5c0800000000000000
+      internalID: -4184343826545574167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 68
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912e91123361c4aa0800000000000000
+      internalID: -6175536580177305063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 72
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f916779bc4af05ee0800000000000000
+      internalID: -1274243487109783137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 66
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e229a8276ebb8e0800000000000000
+      internalID: -1676493056639881654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 27
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8520cb25d0a5ff0800000000000000
+      internalID: -46710197141219129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 65
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b25094e048bdf210800000000000000
+      internalID: 1368452450642580144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 63
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c057b24526df555a0800000000000000
+      internalID: -6533037085670279924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 57
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114adeb52967ecd00800000000000000
+      internalID: 994862938675061777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 43
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b9bfe620d6a3530800000000000000
+      internalID: 3835497889878743810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 18
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d2ca0caedd219c0800000000000000
+      internalID: -3957857122180649709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 44
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3cef52553739880800000000000000
+      internalID: -8605407653428018240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 18
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bbdc1f00fb48810800000000000000
+      internalID: 1766746964613774097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 66
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb1124db36f50470800000000000000
+      internalID: 8360359020105636832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 26
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11756057998da3340800000000000000
+      internalID: 4844422502795335441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 51
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d483e41ba4a11b570800000000000000
+      internalID: 8480588481419950157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 18
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a4f0752f4468820800000000000000
+      internalID: 2920097216029739550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 18
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b5203319d8446b0800000000000000
+      internalID: -5312966005624775854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kinetic_shield_strike-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 16
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841e17e4021b3e760800000000000000
+      internalID: 7486021757933052232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Kinetic_shield_strike-Sheet_0: 1275474203305068022
+      Kinetic_shield_strike-Sheet_1: -2311422525902914924
+      Kinetic_shield_strike-Sheet_10: -3361931515485046111
+      Kinetic_shield_strike-Sheet_11: -5945328072526473178
+      Kinetic_shield_strike-Sheet_12: 1227941701614657688
+      Kinetic_shield_strike-Sheet_13: -7190186714594963680
+      Kinetic_shield_strike-Sheet_14: -2468803061347117433
+      Kinetic_shield_strike-Sheet_15: -545808893134957944
+      Kinetic_shield_strike-Sheet_16: -1338113076565361394
+      Kinetic_shield_strike-Sheet_17: -2892696111457229251
+      Kinetic_shield_strike-Sheet_18: -6074353484365799327
+      Kinetic_shield_strike-Sheet_19: 5826747527028501266
+      Kinetic_shield_strike-Sheet_2: 8065647328109063925
+      Kinetic_shield_strike-Sheet_20: -4262785540192602999
+      Kinetic_shield_strike-Sheet_21: 4350013616202045600
+      Kinetic_shield_strike-Sheet_22: -4871019845356817358
+      Kinetic_shield_strike-Sheet_23: -4232795974938008223
+      Kinetic_shield_strike-Sheet_24: 328490780086387
+      Kinetic_shield_strike-Sheet_25: 6291696594843979325
+      Kinetic_shield_strike-Sheet_26: -2840074457472270181
+      Kinetic_shield_strike-Sheet_27: -470867833160589332
+      Kinetic_shield_strike-Sheet_28: 5178187604257355985
+      Kinetic_shield_strike-Sheet_29: 1547720705665847765
+      Kinetic_shield_strike-Sheet_3: 5422087298686904275
+      Kinetic_shield_strike-Sheet_30: 1103374193128705502
+      Kinetic_shield_strike-Sheet_31: -3253742656520150823
+      Kinetic_shield_strike-Sheet_32: 242035204669614543
+      Kinetic_shield_strike-Sheet_33: -6392567153508961476
+      Kinetic_shield_strike-Sheet_34: -1988110278612568311
+      Kinetic_shield_strike-Sheet_35: -8823648548966907428
+      Kinetic_shield_strike-Sheet_36: 5024501930416891177
+      Kinetic_shield_strike-Sheet_37: -3614189796407215701
+      Kinetic_shield_strike-Sheet_38: -1541630767481700849
+      Kinetic_shield_strike-Sheet_39: 3140688377216267695
+      Kinetic_shield_strike-Sheet_4: 3454558950070125887
+      Kinetic_shield_strike-Sheet_40: -5931470372061331794
+      Kinetic_shield_strike-Sheet_41: 6944133407103698927
+      Kinetic_shield_strike-Sheet_42: -2432176288110724591
+      Kinetic_shield_strike-Sheet_43: -2784108787822950999
+      Kinetic_shield_strike-Sheet_44: -4184343826545574167
+      Kinetic_shield_strike-Sheet_45: -6175536580177305063
+      Kinetic_shield_strike-Sheet_46: -1274243487109783137
+      Kinetic_shield_strike-Sheet_47: -1676493056639881654
+      Kinetic_shield_strike-Sheet_48: -46710197141219129
+      Kinetic_shield_strike-Sheet_49: 1368452450642580144
+      Kinetic_shield_strike-Sheet_5: -8837760440615042124
+      Kinetic_shield_strike-Sheet_50: -6533037085670279924
+      Kinetic_shield_strike-Sheet_51: 994862938675061777
+      Kinetic_shield_strike-Sheet_52: 3835497889878743810
+      Kinetic_shield_strike-Sheet_53: -3957857122180649709
+      Kinetic_shield_strike-Sheet_54: -8605407653428018240
+      Kinetic_shield_strike-Sheet_55: 1766746964613774097
+      Kinetic_shield_strike-Sheet_56: 8360359020105636832
+      Kinetic_shield_strike-Sheet_57: 4844422502795335441
+      Kinetic_shield_strike-Sheet_58: 8480588481419950157
+      Kinetic_shield_strike-Sheet_59: 2920097216029739550
+      Kinetic_shield_strike-Sheet_6: -7014755444167183164
+      Kinetic_shield_strike-Sheet_60: -5312966005624775854
+      Kinetic_shield_strike-Sheet_61: 7486021757933052232
+      Kinetic_shield_strike-Sheet_7: -3930148310245496552
+      Kinetic_shield_strike-Sheet_8: -2544535685138640170
+      Kinetic_shield_strike-Sheet_9: 3806168435982766760
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
