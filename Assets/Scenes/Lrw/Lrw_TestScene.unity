@@ -512,6 +512,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _bossAnimation: {fileID: 52641968}
+  BossAttackBulletPrefab: {fileID: 0}
 --- !u!1 &1714439280
 GameObject:
   m_ObjectHideFlags: 0
