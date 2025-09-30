@@ -11,9 +11,11 @@ namespace Lrw_Boss
         public BossBrain(Boss boos)
         {
             CreateBossState(BossStates.Idle, new BossIdle(_boos));
-            CreateBossState(BossStates.Attack, new BossAttack(_boos));
+            CreateBossState(BossStates.Attack1, new BossAttack1(_boos));
+            CreateBossState(BossStates.Attack2, new BossAttack2(_boos));
+            CreateBossState(BossStates.Attack3, new BossAttack3(_boos));
             CreateBossState(BossStates.Hide, new BossHide(_boos));
-
+            CreateBossState(BossStates.Quiz, new BossQuiz(_boos));
 
 
 
@@ -46,7 +48,7 @@ namespace Lrw_Boss
 
     public enum BossStates
     {
-        Attack,Speak,Idle,Hide
+        Quiz,Idle,Hide, Attack1, Attack2, Attack3
     }
 
 }

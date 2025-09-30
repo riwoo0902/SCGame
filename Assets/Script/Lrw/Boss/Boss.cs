@@ -4,7 +4,8 @@ namespace Lrw_Boss
 {
     public class Boss : MonoBehaviour
     {
-        private BossBrain _bossBrain;
+        public BossBrain _bossBrain { get; private set; }
+        [SerializeField] private BossAnimation _bossAnimation;
 
         private void Awake()
         {

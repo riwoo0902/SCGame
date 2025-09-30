@@ -1,29 +1,28 @@
-using UnityEngine;
+ï»¿using UnityEngine;
 
 namespace Lrw_Boss
 {
-    public class BossAttack : BossState
+    public class BossQuiz : BossState
     {
-        public BossAttack(Boss boss) : base(boss)
+        public BossQuiz(Boss boss) : base(boss)
         {
 
         }
 
         public override void Enter()
         {
-            
+            Debug.Log("í€´ì¦ˆì‹œìž‘");
         }
 
         public override void Update()
         {
-            Debug.Log("°ø°ÝÁß");
+            Debug.Log("í€´ì¦ˆì¤‘");
         }
 
         public override void Exit()
         {
-            Debug.Log("°ø°ÝÁ¾·á");
+            Debug.Log("í€´ì¦ˆì¢…ë£Œ");
         }
 
     }
 }
-
