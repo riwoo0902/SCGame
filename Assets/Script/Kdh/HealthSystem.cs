@@ -21,6 +21,7 @@ public class HealthSystem : MonoBehaviour
         currentHealth = maxHealth;
         IsDead = false;
         OnHealthChanged?.Invoke(currentHealth, maxHealth);
+        OnDeath?.Invoke();
     }
 
     public void Deal(int damage)
