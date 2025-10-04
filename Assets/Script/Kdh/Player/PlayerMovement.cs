@@ -17,6 +17,11 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
+        Move();
+    }
+
+    private void Move()
+    {
         Vector2 moveDir = playerInput.moveDir; // 입력 가져오기
         rb.linearVelocity = moveDir * moveSpeed;     // 속도 적용
     }

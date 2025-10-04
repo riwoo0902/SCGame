@@ -1,5 +1,6 @@
 using System;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class HealthSystem : MonoBehaviour
 {
@@ -23,6 +24,8 @@ public class HealthSystem : MonoBehaviour
         currentHealth = Mathf.Max(currentHealth - damage, minHealth);
         OnHealthChanged?.Invoke();
 
+        Debug.Log("µô");
+
         if (currentHealth == minHealth)
         {
             Death();
@@ -33,6 +36,7 @@ public class HealthSystem : MonoBehaviour
     {
         currentHealth = Mathf.Min(currentHealth + healAmount, maxHealth);
         OnHealthChanged?.Invoke();
+        Debug.Log("Èú");
     }
 
     public void Death()
