@@ -1,0 +1,2899 @@
+fileFormatVersion: 2
+guid: e226a28c78aac7c4494b9c41d94623dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2283877774795238759
+    second: lightning_explosion-Sheet_0
+  - first:
+      213: -662741625374439453
+    second: lightning_explosion-Sheet_1
+  - first:
+      213: 3211968606231184125
+    second: lightning_explosion-Sheet_2
+  - first:
+      213: -7407562754049379607
+    second: lightning_explosion-Sheet_3
+  - first:
+      213: 1332812216303891055
+    second: lightning_explosion-Sheet_4
+  - first:
+      213: -6828734621184884242
+    second: lightning_explosion-Sheet_5
+  - first:
+      213: 6693212623802500851
+    second: lightning_explosion-Sheet_6
+  - first:
+      213: 6128786909710056060
+    second: lightning_explosion-Sheet_7
+  - first:
+      213: -6214279036444947192
+    second: lightning_explosion-Sheet_8
+  - first:
+      213: -5204587518737782861
+    second: lightning_explosion-Sheet_9
+  - first:
+      213: 276531394296359608
+    second: lightning_explosion-Sheet_10
+  - first:
+      213: -36123054585309228
+    second: lightning_explosion-Sheet_11
+  - first:
+      213: -1372627488207132790
+    second: lightning_explosion-Sheet_12
+  - first:
+      213: 6786263943445452437
+    second: lightning_explosion-Sheet_13
+  - first:
+      213: 4770080212994415095
+    second: lightning_explosion-Sheet_14
+  - first:
+      213: 8674722141670678368
+    second: lightning_explosion-Sheet_15
+  - first:
+      213: -6122059908219618448
+    second: lightning_explosion-Sheet_16
+  - first:
+      213: 2736157272893480632
+    second: lightning_explosion-Sheet_17
+  - first:
+      213: 331784308012691532
+    second: lightning_explosion-Sheet_18
+  - first:
+      213: -6717045419843270978
+    second: lightning_explosion-Sheet_19
+  - first:
+      213: 8005156045613476520
+    second: lightning_explosion-Sheet_20
+  - first:
+      213: 3992982742154737476
+    second: lightning_explosion-Sheet_21
+  - first:
+      213: -395136958489655154
+    second: lightning_explosion-Sheet_22
+  - first:
+      213: -4002010176438269609
+    second: lightning_explosion-Sheet_23
+  - first:
+      213: -5701352176550632850
+    second: lightning_explosion-Sheet_24
+  - first:
+      213: -5789049153575588017
+    second: lightning_explosion-Sheet_25
+  - first:
+      213: -1761579450675565525
+    second: lightning_explosion-Sheet_26
+  - first:
+      213: -4880516677821963303
+    second: lightning_explosion-Sheet_27
+  - first:
+      213: 6431543996201962712
+    second: lightning_explosion-Sheet_28
+  - first:
+      213: -1701929997242163700
+    second: lightning_explosion-Sheet_29
+  - first:
+      213: -8772188521358883479
+    second: lightning_explosion-Sheet_30
+  - first:
+      213: 896670823153907096
+    second: lightning_explosion-Sheet_31
+  - first:
+      213: 139011001809491127
+    second: lightning_explosion-Sheet_32
+  - first:
+      213: 7437411042278738064
+    second: lightning_explosion-Sheet_33
+  - first:
+      213: 5044757032090682050
+    second: lightning_explosion-Sheet_34
+  - first:
+      213: 1590965071586026429
+    second: lightning_explosion-Sheet_35
+  - first:
+      213: -1502606645134402269
+    second: lightning_explosion-Sheet_36
+  - first:
+      213: 1963110200686678167
+    second: lightning_explosion-Sheet_37
+  - first:
+      213: 6121573871634298802
+    second: lightning_explosion-Sheet_38
+  - first:
+      213: -5418685420568915643
+    second: lightning_explosion-Sheet_39
+  - first:
+      213: -8655846503030444340
+    second: lightning_explosion-Sheet_40
+  - first:
+      213: 2888112420544306881
+    second: lightning_explosion-Sheet_41
+  - first:
+      213: 8586377227504171014
+    second: lightning_explosion-Sheet_42
+  - first:
+      213: -7060929990798634677
+    second: lightning_explosion-Sheet_43
+  - first:
+      213: 583236268264605544
+    second: lightning_explosion-Sheet_44
+  - first:
+      213: -7863011401264210062
+    second: lightning_explosion-Sheet_45
+  - first:
+      213: 205999535017302069
+    second: lightning_explosion-Sheet_46
+  - first:
+      213: 6583952896660299409
+    second: lightning_explosion-Sheet_47
+  - first:
+      213: -888660687653957847
+    second: lightning_explosion-Sheet_48
+  - first:
+      213: 4329281036238088325
+    second: lightning_explosion-Sheet_49
+  - first:
+      213: -6315304656514733896
+    second: lightning_explosion-Sheet_50
+  - first:
+      213: 832041034969062097
+    second: lightning_explosion-Sheet_51
+  - first:
+      213: -2685975341869404075
+    second: lightning_explosion-Sheet_52
+  - first:
+      213: -3729309793928996715
+    second: lightning_explosion-Sheet_53
+  - first:
+      213: -6695766368600879021
+    second: lightning_explosion-Sheet_54
+  - first:
+      213: 1969188167331085361
+    second: lightning_explosion-Sheet_55
+  - first:
+      213: -7452253816627540916
+    second: lightning_explosion-Sheet_56
+  - first:
+      213: 1135368551879669451
+    second: lightning_explosion-Sheet_57
+  - first:
+      213: -4271610690556298326
+    second: lightning_explosion-Sheet_58
+  - first:
+      213: 693338310443425441
+    second: lightning_explosion-Sheet_59
+  - first:
+      213: 1366125716176343205
+    second: lightning_explosion-Sheet_60
+  - first:
+      213: 5444625691416735854
+    second: lightning_explosion-Sheet_61
+  - first:
+      213: -2064691490427364987
+    second: lightning_explosion-Sheet_62
+  - first:
+      213: 5178975148630220375
+    second: lightning_explosion-Sheet_63
+  - first:
+      213: -2149049551804484224
+    second: lightning_explosion-Sheet_64
+  - first:
+      213: -1459184453265206139
+    second: lightning_explosion-Sheet_65
+  - first:
+      213: -3248381234736247384
+    second: lightning_explosion-Sheet_66
+  - first:
+      213: -9070735507419187456
+    second: lightning_explosion-Sheet_67
+  - first:
+      213: 2874176226388091598
+    second: lightning_explosion-Sheet_68
+  - first:
+      213: -4943287532316920762
+    second: lightning_explosion-Sheet_69
+  - first:
+      213: 7777521808304518933
+    second: lightning_explosion-Sheet_70
+  - first:
+      213: 4066241661981007220
+    second: lightning_explosion-Sheet_71
+  - first:
+      213: -1334143820963722133
+    second: lightning_explosion-Sheet_72
+  - first:
+      213: 7870924493122150394
+    second: lightning_explosion-Sheet_73
+  - first:
+      213: 2136354836065749946
+    second: lightning_explosion-Sheet_74
+  - first:
+      213: 3073152886146163742
+    second: lightning_explosion-Sheet_75
+  - first:
+      213: 3521124639419172979
+    second: lightning_explosion-Sheet_76
+  - first:
+      213: -7864181554239889886
+    second: lightning_explosion-Sheet_77
+  - first:
+      213: -8563128638573201161
+    second: lightning_explosion-Sheet_78
+  - first:
+      213: 213259177336191656
+    second: lightning_explosion-Sheet_79
+  - first:
+      213: 8635509652765377956
+    second: lightning_explosion-Sheet_80
+  - first:
+      213: 6714312715457822845
+    second: lightning_explosion-Sheet_81
+  - first:
+      213: 881591833259749253
+    second: lightning_explosion-Sheet_82
+  - first:
+      213: 1367849795627131076
+    second: lightning_explosion-Sheet_83
+  - first:
+      213: -175440169017804888
+    second: lightning_explosion-Sheet_84
+  - first:
+      213: -8819041829254617539
+    second: lightning_explosion-Sheet_85
+  - first:
+      213: -3332310383072291338
+    second: lightning_explosion-Sheet_86
+  - first:
+      213: 1517971406770455130
+    second: lightning_explosion-Sheet_87
+  - first:
+      213: -6180542091582635183
+    second: lightning_explosion-Sheet_88
+  - first:
+      213: -7033125517963057695
+    second: lightning_explosion-Sheet_89
+  - first:
+      213: 6637048804136986524
+    second: lightning_explosion-Sheet_90
+  - first:
+      213: 843828611727421044
+    second: lightning_explosion-Sheet_91
+  - first:
+      213: 4670371431280761511
+    second: lightning_explosion-Sheet_92
+  - first:
+      213: -6847219646540804439
+    second: lightning_explosion-Sheet_93
+  - first:
+      213: -271144986497461568
+    second: lightning_explosion-Sheet_94
+  - first:
+      213: 8404739372251295094
+    second: lightning_explosion-Sheet_95
+  - first:
+      213: 6113555819646308491
+    second: lightning_explosion-Sheet_96
+  - first:
+      213: -7427905680272749629
+    second: lightning_explosion-Sheet_97
+  - first:
+      213: -1928783473565594030
+    second: lightning_explosion-Sheet_98
+  - first:
+      213: 8739902719884096806
+    second: lightning_explosion-Sheet_99
+  - first:
+      213: 663377276813167950
+    second: lightning_explosion-Sheet_100
+  - first:
+      213: 600706712639985222
+    second: lightning_explosion-Sheet_101
+  - first:
+      213: 4143124298729959984
+    second: lightning_explosion-Sheet_102
+  - first:
+      213: -5893628524563698858
+    second: lightning_explosion-Sheet_103
+  - first:
+      213: 1748985258998545108
+    second: lightning_explosion-Sheet_104
+  - first:
+      213: 7519178374495186874
+    second: lightning_explosion-Sheet_105
+  - first:
+      213: -7307160530435667138
+    second: lightning_explosion-Sheet_106
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 351
+        width: 30
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9929beaa3490e40e0800000000000000
+      internalID: -2283877774795238759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 445
+        width: 32
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e701b9c0087dc6f0800000000000000
+      internalID: -662741625374439453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 453
+        width: 30
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2cd1cfd64339c20800000000000000
+      internalID: 3211968606231184125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 595
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2f8711cec033990800000000000000
+      internalID: -7407562754049379607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 575
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62381136a91f7210800000000000000
+      internalID: 1332812216303891055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 552
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee10ddeca067b31a0800000000000000
+      internalID: -6828734621184884242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 436
+        width: 147
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f688ef4b6113ec50800000000000000
+      internalID: 6693212623802500851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 530
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7af4510933dd0550800000000000000
+      internalID: 6128786909710056060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 456
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80dca89142272c9a0800000000000000
+      internalID: -6214279036444947192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 464
+        width: 76
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7e33f0a3795c7b0800000000000000
+      internalID: -5204587518737782861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 436
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba274686df66d300800000000000000
+      internalID: 276531394296359608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 444
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d79d33f54aaf7ff0800000000000000
+      internalID: -36123054585309228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 352
+        width: 19
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a872a7c629273fce0800000000000000
+      internalID: -1372627488207132790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 453
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5969b15f917ad2e50800000000000000
+      internalID: 6786263943445452437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 299
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9d6a54eaab23240800000000000000
+      internalID: 4770080212994415095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 216
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f1f73c3ddc26870800000000000000
+      internalID: 8674722141670678368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 282
+        width: 61
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bb8e413f21a0ba0800000000000000
+      internalID: -6122059908219618448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 306
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8beda6cfa88c8f520800000000000000
+      internalID: 2736157272893480632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 296
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40352df11cba9400800000000000000
+      internalID: 331784308012691532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 298
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6c31277c248c2a0800000000000000
+      internalID: -6717045419843270978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 297
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aaac56a207081f60800000000000000
+      internalID: 8005156045613476520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 309
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447f564f5ace96730800000000000000
+      internalID: 3992982742154737476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 295
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88889f9701348af0800000000000000
+      internalID: -395136958489655154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 225
+        width: 130
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75906e5b2f00678c0800000000000000
+      internalID: -4002010176438269609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 276
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62ac49076ab0e0b0800000000000000
+      internalID: -5701352176550632850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 269
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fe9dd677a29afa0800000000000000
+      internalID: -5789049153575588017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 284
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cead6a2dc9d87e0800000000000000
+      internalID: -1761579450675565525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 262
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d36d0a80fbe44cb0800000000000000
+      internalID: -4880516677821963303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 285
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc0ae2503f614950800000000000000
+      internalID: 6431543996201962712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 287
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e9cc94fa78168e0800000000000000
+      internalID: -1701929997242163700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 275
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96505a1540de24680800000000000000
+      internalID: -8772188521358883479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 288
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895bb86ec5d917c00800000000000000
+      internalID: 896670823153907096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 271
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4d9b605cddde100800000000000000
+      internalID: 139011001809491127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 275
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098879710fdf63760800000000000000
+      internalID: 7437411042278738064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 225
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c24bebdac3920640800000000000000
+      internalID: 5044757032090682050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 244
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db360f5ad4e341610800000000000000
+      internalID: 1590965071586026429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 241
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d5f97a73ba52be0800000000000000
+      internalID: -1502606645134402269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 255
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79010e6935e5e3b10800000000000000
+      internalID: 1963110200686678167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 237
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b73315b00334f450800000000000000
+      internalID: 6121573871634298802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 218
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541d665c156fcc4b0800000000000000
+      internalID: -5418685420568915643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 264
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce2094577140e780800000000000000
+      internalID: -8655846503030444340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 260
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cedfe1d1f2a41820800000000000000
+      internalID: 2888112420544306881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 232
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608b3e88890f82770800000000000000
+      internalID: 8586377227504171014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 241
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b419b827599820e90800000000000000
+      internalID: -7060929990798634677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 238
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867490ebb42181800800000000000000
+      internalID: 583236268264605544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 246
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fdcc26ac8f0e290800000000000000
+      internalID: -7863011401264210062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 238
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5381a945c7bdbd200800000000000000
+      internalID: 205999535017302069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 255
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e5757b646ee5b50800000000000000
+      internalID: 6583952896660299409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 235
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f088a10d7daa3f0800000000000000
+      internalID: -888660687653957847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 249
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5886ec93a22b41c30800000000000000
+      internalID: 4329281036238088325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 231
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8a114ffd78b58a0800000000000000
+      internalID: -6315304656514733896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 265
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da11e7b9e00c8b00800000000000000
+      internalID: 832041034969062097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 256
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5507a6058af79bad0800000000000000
+      internalID: -2685975341869404075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 236
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5981a7b4084de3cc0800000000000000
+      internalID: -3729309793928996715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 250
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3509984a6fbd313a0800000000000000
+      internalID: -6695766368600879021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 226
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cfba97436f35b10800000000000000
+      internalID: 1969188167331085361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 251
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ccdd333a6449890800000000000000
+      internalID: -7452253816627540916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 262
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6ffe7bea3a1cf00800000000000000
+      internalID: 1135368551879669451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 249
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab71aa75b038b4c0800000000000000
+      internalID: -4271610690556298326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 228
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae5627158b3f9900800000000000000
+      internalID: 693338310443425441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 259
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0973fc91475f210800000000000000
+      internalID: 1366125716176343205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 241
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e603cdf28323f8b40800000000000000
+      internalID: 5444625691416735854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 221
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5891e46570eb853e0800000000000000
+      internalID: -2064691490427364987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 251
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e1ea2557a6fd740800000000000000
+      internalID: 5178975148630220375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 236
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0853bfb91da0d22e0800000000000000
+      internalID: -2149049551804484224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 248
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584da59887fefbbe0800000000000000
+      internalID: -1459184453265206139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 259
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad40884a7e6be2d0800000000000000
+      internalID: -3248381234736247384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 238
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007b1c46d164e1280800000000000000
+      internalID: -9070735507419187456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 257
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec22cb3cc0023e720800000000000000
+      internalID: 2874176226388091598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 235
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644f1a51e2ae56bb0800000000000000
+      internalID: -4943287532316920762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 221
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51738d8a0ee4feb60800000000000000
+      internalID: 7777521808304518933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 259
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d95496f313e6830800000000000000
+      internalID: 4066241661981007220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 233
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ccc20734b2c7de0800000000000000
+      internalID: -1334143820963722133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 252
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff9772ef142b3d60800000000000000
+      internalID: 7870924493122150394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 228
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb03ed876bd5ad10800000000000000
+      internalID: 2136354836065749946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 229
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e146537844806aa20800000000000000
+      internalID: 3073152886146163742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 224
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378847e243c8dd030800000000000000
+      internalID: 3521124639419172979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 224
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e1a5aea80dcd290800000000000000
+      internalID: -7864181554239889886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 216
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8bed36fd7a92980800000000000000
+      internalID: -8563128638573201161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 214
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa37368716a5f200800000000000000
+      internalID: 213259177336191656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 223
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5898bb64e77d770800000000000000
+      internalID: 8635509652765377956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 214
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7080cb37d70e2d50800000000000000
+      internalID: 6714312715457822845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 218
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f255af91b0c3c00800000000000000
+      internalID: 881591833259749253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 213
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0227654249bf210800000000000000
+      internalID: 1367849795627131076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 117
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7fb568816b09df0800000000000000
+      internalID: -175440169017804888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 110
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36a7fb7e287c9580800000000000000
+      internalID: -8819041829254617539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 105
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f551a7ac5141c1d0800000000000000
+      internalID: -3332310383072291338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 98
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52c0cfa3fae01510800000000000000
+      internalID: 1517971406770455130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 97
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1530edfa6bd4a3aa0800000000000000
+      internalID: -6180542091582635183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5a311ca91556e90800000000000000
+      internalID: -7033125517963057695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 72
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97248709b88b1c50800000000000000
+      internalID: 6637048804136986524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ee25dc6a1e5bb00800000000000000
+      internalID: 843828611727421044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 83
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa5f92721e70d040800000000000000
+      internalID: 4670371431280761511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 74
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae0cd4720ac9f0a0800000000000000
+      internalID: -6847219646540804439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2
+        width: 328
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2d0354213bc3cf0800000000000000
+      internalID: -271144986497461568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 72
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d27c8cde1a3a470800000000000000
+      internalID: 8404739372251295094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 28
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b805a8080a6b7d450800000000000000
+      internalID: 6113555819646308491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 32
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb8c367327cae890800000000000000
+      internalID: -7427905680272749629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 50
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e8a7166a59b35e0800000000000000
+      internalID: -1928783473565594030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 12
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625792eb73f5a4970800000000000000
+      internalID: 8739902719884096806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 46
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dc3885e1ac43900800000000000000
+      internalID: 663377276813167950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 26
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646591d8293265800800000000000000
+      internalID: 600706712639985222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032b61639955f7930800000000000000
+      internalID: 4143124298729959984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 10
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b654b2510a53ea0800000000000000
+      internalID: -5893628524563698858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 26
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dab00893d4a54810800000000000000
+      internalID: 1748985258998545108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 5
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfa59ea4ec795860800000000000000
+      internalID: 7519178374495186874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightning_explosion-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 4
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b80aa6630c79a90800000000000000
+      internalID: -7307160530435667138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lightning_explosion-Sheet_0: -2283877774795238759
+      lightning_explosion-Sheet_1: -662741625374439453
+      lightning_explosion-Sheet_10: 276531394296359608
+      lightning_explosion-Sheet_100: 663377276813167950
+      lightning_explosion-Sheet_101: 600706712639985222
+      lightning_explosion-Sheet_102: 4143124298729959984
+      lightning_explosion-Sheet_103: -5893628524563698858
+      lightning_explosion-Sheet_104: 1748985258998545108
+      lightning_explosion-Sheet_105: 7519178374495186874
+      lightning_explosion-Sheet_106: -7307160530435667138
+      lightning_explosion-Sheet_11: -36123054585309228
+      lightning_explosion-Sheet_12: -1372627488207132790
+      lightning_explosion-Sheet_13: 6786263943445452437
+      lightning_explosion-Sheet_14: 4770080212994415095
+      lightning_explosion-Sheet_15: 8674722141670678368
+      lightning_explosion-Sheet_16: -6122059908219618448
+      lightning_explosion-Sheet_17: 2736157272893480632
+      lightning_explosion-Sheet_18: 331784308012691532
+      lightning_explosion-Sheet_19: -6717045419843270978
+      lightning_explosion-Sheet_2: 3211968606231184125
+      lightning_explosion-Sheet_20: 8005156045613476520
+      lightning_explosion-Sheet_21: 3992982742154737476
+      lightning_explosion-Sheet_22: -395136958489655154
+      lightning_explosion-Sheet_23: -4002010176438269609
+      lightning_explosion-Sheet_24: -5701352176550632850
+      lightning_explosion-Sheet_25: -5789049153575588017
+      lightning_explosion-Sheet_26: -1761579450675565525
+      lightning_explosion-Sheet_27: -4880516677821963303
+      lightning_explosion-Sheet_28: 6431543996201962712
+      lightning_explosion-Sheet_29: -1701929997242163700
+      lightning_explosion-Sheet_3: -7407562754049379607
+      lightning_explosion-Sheet_30: -8772188521358883479
+      lightning_explosion-Sheet_31: 896670823153907096
+      lightning_explosion-Sheet_32: 139011001809491127
+      lightning_explosion-Sheet_33: 7437411042278738064
+      lightning_explosion-Sheet_34: 5044757032090682050
+      lightning_explosion-Sheet_35: 1590965071586026429
+      lightning_explosion-Sheet_36: -1502606645134402269
+      lightning_explosion-Sheet_37: 1963110200686678167
+      lightning_explosion-Sheet_38: 6121573871634298802
+      lightning_explosion-Sheet_39: -5418685420568915643
+      lightning_explosion-Sheet_4: 1332812216303891055
+      lightning_explosion-Sheet_40: -8655846503030444340
+      lightning_explosion-Sheet_41: 2888112420544306881
+      lightning_explosion-Sheet_42: 8586377227504171014
+      lightning_explosion-Sheet_43: -7060929990798634677
+      lightning_explosion-Sheet_44: 583236268264605544
+      lightning_explosion-Sheet_45: -7863011401264210062
+      lightning_explosion-Sheet_46: 205999535017302069
+      lightning_explosion-Sheet_47: 6583952896660299409
+      lightning_explosion-Sheet_48: -888660687653957847
+      lightning_explosion-Sheet_49: 4329281036238088325
+      lightning_explosion-Sheet_5: -6828734621184884242
+      lightning_explosion-Sheet_50: -6315304656514733896
+      lightning_explosion-Sheet_51: 832041034969062097
+      lightning_explosion-Sheet_52: -2685975341869404075
+      lightning_explosion-Sheet_53: -3729309793928996715
+      lightning_explosion-Sheet_54: -6695766368600879021
+      lightning_explosion-Sheet_55: 1969188167331085361
+      lightning_explosion-Sheet_56: -7452253816627540916
+      lightning_explosion-Sheet_57: 1135368551879669451
+      lightning_explosion-Sheet_58: -4271610690556298326
+      lightning_explosion-Sheet_59: 693338310443425441
+      lightning_explosion-Sheet_6: 6693212623802500851
+      lightning_explosion-Sheet_60: 1366125716176343205
+      lightning_explosion-Sheet_61: 5444625691416735854
+      lightning_explosion-Sheet_62: -2064691490427364987
+      lightning_explosion-Sheet_63: 5178975148630220375
+      lightning_explosion-Sheet_64: -2149049551804484224
+      lightning_explosion-Sheet_65: -1459184453265206139
+      lightning_explosion-Sheet_66: -3248381234736247384
+      lightning_explosion-Sheet_67: -9070735507419187456
+      lightning_explosion-Sheet_68: 2874176226388091598
+      lightning_explosion-Sheet_69: -4943287532316920762
+      lightning_explosion-Sheet_7: 6128786909710056060
+      lightning_explosion-Sheet_70: 7777521808304518933
+      lightning_explosion-Sheet_71: 4066241661981007220
+      lightning_explosion-Sheet_72: -1334143820963722133
+      lightning_explosion-Sheet_73: 7870924493122150394
+      lightning_explosion-Sheet_74: 2136354836065749946
+      lightning_explosion-Sheet_75: 3073152886146163742
+      lightning_explosion-Sheet_76: 3521124639419172979
+      lightning_explosion-Sheet_77: -7864181554239889886
+      lightning_explosion-Sheet_78: -8563128638573201161
+      lightning_explosion-Sheet_79: 213259177336191656
+      lightning_explosion-Sheet_8: -6214279036444947192
+      lightning_explosion-Sheet_80: 8635509652765377956
+      lightning_explosion-Sheet_81: 6714312715457822845
+      lightning_explosion-Sheet_82: 881591833259749253
+      lightning_explosion-Sheet_83: 1367849795627131076
+      lightning_explosion-Sheet_84: -175440169017804888
+      lightning_explosion-Sheet_85: -8819041829254617539
+      lightning_explosion-Sheet_86: -3332310383072291338
+      lightning_explosion-Sheet_87: 1517971406770455130
+      lightning_explosion-Sheet_88: -6180542091582635183
+      lightning_explosion-Sheet_89: -7033125517963057695
+      lightning_explosion-Sheet_9: -5204587518737782861
+      lightning_explosion-Sheet_90: 6637048804136986524
+      lightning_explosion-Sheet_91: 843828611727421044
+      lightning_explosion-Sheet_92: 4670371431280761511
+      lightning_explosion-Sheet_93: -6847219646540804439
+      lightning_explosion-Sheet_94: -271144986497461568
+      lightning_explosion-Sheet_95: 8404739372251295094
+      lightning_explosion-Sheet_96: 6113555819646308491
+      lightning_explosion-Sheet_97: -7427905680272749629
+      lightning_explosion-Sheet_98: -1928783473565594030
+      lightning_explosion-Sheet_99: 8739902719884096806
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

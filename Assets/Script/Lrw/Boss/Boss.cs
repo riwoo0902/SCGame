@@ -6,6 +6,7 @@ namespace Lrw_Boss
     {
         public BossBrain _bossBrain { get; private set; }
         [SerializeField] private BossAnimation _bossAnimation;
+        [SerializeField] private GameObject BossAttackBulletPrefab;
 
         private void Awake()
         {
@@ -16,6 +17,7 @@ namespace Lrw_Boss
         {
             _bossBrain.UpData();
         }
+
 
     }
 }

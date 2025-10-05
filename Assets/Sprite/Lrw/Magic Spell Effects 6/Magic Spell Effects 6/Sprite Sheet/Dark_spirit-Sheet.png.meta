@@ -1,0 +1,3263 @@
+fileFormatVersion: 2
+guid: 9b5fd6e39ddfa4640a833d4f3770a881
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 40689572010529893
+    second: Dark_spirit-Sheet_0
+  - first:
+      213: -2275502414363295972
+    second: Dark_spirit-Sheet_1
+  - first:
+      213: -4087192262888568753
+    second: Dark_spirit-Sheet_2
+  - first:
+      213: -7574482755657168531
+    second: Dark_spirit-Sheet_3
+  - first:
+      213: 7671809888422219941
+    second: Dark_spirit-Sheet_4
+  - first:
+      213: 4284969007143228004
+    second: Dark_spirit-Sheet_5
+  - first:
+      213: -1541291674294277367
+    second: Dark_spirit-Sheet_6
+  - first:
+      213: 2131699276563595225
+    second: Dark_spirit-Sheet_7
+  - first:
+      213: 8546426661126422342
+    second: Dark_spirit-Sheet_8
+  - first:
+      213: -6472549420247936915
+    second: Dark_spirit-Sheet_9
+  - first:
+      213: 8588573784795933809
+    second: Dark_spirit-Sheet_10
+  - first:
+      213: -7248288440526071610
+    second: Dark_spirit-Sheet_11
+  - first:
+      213: 2195907617900411038
+    second: Dark_spirit-Sheet_12
+  - first:
+      213: 3602044556001620196
+    second: Dark_spirit-Sheet_13
+  - first:
+      213: -8083515968235135592
+    second: Dark_spirit-Sheet_14
+  - first:
+      213: -3862748536040135607
+    second: Dark_spirit-Sheet_15
+  - first:
+      213: 5583970541314267526
+    second: Dark_spirit-Sheet_16
+  - first:
+      213: -6696170353911774683
+    second: Dark_spirit-Sheet_17
+  - first:
+      213: 8867553549712022739
+    second: Dark_spirit-Sheet_18
+  - first:
+      213: -7070732322955676119
+    second: Dark_spirit-Sheet_19
+  - first:
+      213: -7547293516303883157
+    second: Dark_spirit-Sheet_20
+  - first:
+      213: -6171254450157073846
+    second: Dark_spirit-Sheet_21
+  - first:
+      213: -8213751268961463668
+    second: Dark_spirit-Sheet_22
+  - first:
+      213: -143100640358237052
+    second: Dark_spirit-Sheet_23
+  - first:
+      213: 898670329914373771
+    second: Dark_spirit-Sheet_24
+  - first:
+      213: 2665292946939124154
+    second: Dark_spirit-Sheet_25
+  - first:
+      213: -1914354102546390482
+    second: Dark_spirit-Sheet_26
+  - first:
+      213: -8126900184693992817
+    second: Dark_spirit-Sheet_27
+  - first:
+      213: 7902575921203440580
+    second: Dark_spirit-Sheet_28
+  - first:
+      213: 5198022462079643314
+    second: Dark_spirit-Sheet_29
+  - first:
+      213: 260060397882572574
+    second: Dark_spirit-Sheet_30
+  - first:
+      213: -9100118044897379155
+    second: Dark_spirit-Sheet_31
+  - first:
+      213: 7223348008599009782
+    second: Dark_spirit-Sheet_32
+  - first:
+      213: 7421760699961272784
+    second: Dark_spirit-Sheet_33
+  - first:
+      213: 6300928687927500774
+    second: Dark_spirit-Sheet_34
+  - first:
+      213: 3178289723018543665
+    second: Dark_spirit-Sheet_35
+  - first:
+      213: 7105468267471162521
+    second: Dark_spirit-Sheet_36
+  - first:
+      213: -2995198540486322375
+    second: Dark_spirit-Sheet_37
+  - first:
+      213: 1842834344271087494
+    second: Dark_spirit-Sheet_38
+  - first:
+      213: -1025804081236595857
+    second: Dark_spirit-Sheet_39
+  - first:
+      213: -5055946131742840809
+    second: Dark_spirit-Sheet_40
+  - first:
+      213: -2603367532418398641
+    second: Dark_spirit-Sheet_41
+  - first:
+      213: -4132962650193619072
+    second: Dark_spirit-Sheet_42
+  - first:
+      213: 5110500597478551407
+    second: Dark_spirit-Sheet_43
+  - first:
+      213: 5444969661811291407
+    second: Dark_spirit-Sheet_44
+  - first:
+      213: -3559488918470180178
+    second: Dark_spirit-Sheet_45
+  - first:
+      213: 902203160919307268
+    second: Dark_spirit-Sheet_46
+  - first:
+      213: -7604404832806864143
+    second: Dark_spirit-Sheet_47
+  - first:
+      213: -6336141328960604540
+    second: Dark_spirit-Sheet_48
+  - first:
+      213: -6569982388682162096
+    second: Dark_spirit-Sheet_49
+  - first:
+      213: -7959431526026768475
+    second: Dark_spirit-Sheet_50
+  - first:
+      213: 7914028449763231183
+    second: Dark_spirit-Sheet_51
+  - first:
+      213: 798812748599611616
+    second: Dark_spirit-Sheet_52
+  - first:
+      213: 3879356918177675462
+    second: Dark_spirit-Sheet_53
+  - first:
+      213: 6193294645014307298
+    second: Dark_spirit-Sheet_54
+  - first:
+      213: -3288104573410845934
+    second: Dark_spirit-Sheet_55
+  - first:
+      213: 7151198918345485031
+    second: Dark_spirit-Sheet_56
+  - first:
+      213: 6323509818929839807
+    second: Dark_spirit-Sheet_57
+  - first:
+      213: 4070170476639955585
+    second: Dark_spirit-Sheet_58
+  - first:
+      213: -6462950799211558564
+    second: Dark_spirit-Sheet_59
+  - first:
+      213: -3160873225762254370
+    second: Dark_spirit-Sheet_60
+  - first:
+      213: 6431970545816312147
+    second: Dark_spirit-Sheet_61
+  - first:
+      213: 3313835032353924014
+    second: Dark_spirit-Sheet_62
+  - first:
+      213: -5125489772758896636
+    second: Dark_spirit-Sheet_63
+  - first:
+      213: -1281033031724066704
+    second: Dark_spirit-Sheet_64
+  - first:
+      213: 4811691913791694112
+    second: Dark_spirit-Sheet_65
+  - first:
+      213: 1464545955306638868
+    second: Dark_spirit-Sheet_66
+  - first:
+      213: 2191734947515495971
+    second: Dark_spirit-Sheet_67
+  - first:
+      213: 3684522830937384072
+    second: Dark_spirit-Sheet_68
+  - first:
+      213: 4568896444077033372
+    second: Dark_spirit-Sheet_69
+  - first:
+      213: -5093050917164657966
+    second: Dark_spirit-Sheet_70
+  - first:
+      213: 2515144110821387217
+    second: Dark_spirit-Sheet_71
+  - first:
+      213: -1511565184649580566
+    second: Dark_spirit-Sheet_72
+  - first:
+      213: 6130060782805526945
+    second: Dark_spirit-Sheet_73
+  - first:
+      213: 3575905205365483621
+    second: Dark_spirit-Sheet_74
+  - first:
+      213: 7257561888978228620
+    second: Dark_spirit-Sheet_75
+  - first:
+      213: 2914825189550924421
+    second: Dark_spirit-Sheet_76
+  - first:
+      213: 6453460701208994615
+    second: Dark_spirit-Sheet_77
+  - first:
+      213: -1365533580943615759
+    second: Dark_spirit-Sheet_78
+  - first:
+      213: 338577262278924625
+    second: Dark_spirit-Sheet_79
+  - first:
+      213: -2486747079983987295
+    second: Dark_spirit-Sheet_80
+  - first:
+      213: -3081959557230180339
+    second: Dark_spirit-Sheet_81
+  - first:
+      213: -5439615277186417409
+    second: Dark_spirit-Sheet_82
+  - first:
+      213: 5273597734357819370
+    second: Dark_spirit-Sheet_83
+  - first:
+      213: 3167910528360475395
+    second: Dark_spirit-Sheet_84
+  - first:
+      213: -840394891036757008
+    second: Dark_spirit-Sheet_85
+  - first:
+      213: -4084869212065750145
+    second: Dark_spirit-Sheet_86
+  - first:
+      213: 7438700674926434685
+    second: Dark_spirit-Sheet_87
+  - first:
+      213: 2412958268341022851
+    second: Dark_spirit-Sheet_88
+  - first:
+      213: -2829326860635332107
+    second: Dark_spirit-Sheet_89
+  - first:
+      213: 2495907777987149346
+    second: Dark_spirit-Sheet_90
+  - first:
+      213: 2880882167718766635
+    second: Dark_spirit-Sheet_91
+  - first:
+      213: -3321941770424139912
+    second: Dark_spirit-Sheet_92
+  - first:
+      213: 7285836382858143944
+    second: Dark_spirit-Sheet_93
+  - first:
+      213: -3572989868177984880
+    second: Dark_spirit-Sheet_94
+  - first:
+      213: -9091908427602615594
+    second: Dark_spirit-Sheet_95
+  - first:
+      213: -7033213747719335493
+    second: Dark_spirit-Sheet_96
+  - first:
+      213: 432098183164651802
+    second: Dark_spirit-Sheet_97
+  - first:
+      213: 5651437434688298399
+    second: Dark_spirit-Sheet_98
+  - first:
+      213: -8814409034022769474
+    second: Dark_spirit-Sheet_99
+  - first:
+      213: 1240810604289804756
+    second: Dark_spirit-Sheet_100
+  - first:
+      213: 5278042108138152523
+    second: Dark_spirit-Sheet_101
+  - first:
+      213: -5299877057416537012
+    second: Dark_spirit-Sheet_102
+  - first:
+      213: 4261586771634596014
+    second: Dark_spirit-Sheet_103
+  - first:
+      213: 4209421903925617985
+    second: Dark_spirit-Sheet_104
+  - first:
+      213: -6511161030843296813
+    second: Dark_spirit-Sheet_105
+  - first:
+      213: -6630149596997534033
+    second: Dark_spirit-Sheet_106
+  - first:
+      213: 81132570874402643
+    second: Dark_spirit-Sheet_107
+  - first:
+      213: -1419164497219207686
+    second: Dark_spirit-Sheet_108
+  - first:
+      213: 7520425207325976391
+    second: Dark_spirit-Sheet_109
+  - first:
+      213: 1247245569387819739
+    second: Dark_spirit-Sheet_110
+  - first:
+      213: -8035778580654425645
+    second: Dark_spirit-Sheet_111
+  - first:
+      213: -7441744726158971536
+    second: Dark_spirit-Sheet_112
+  - first:
+      213: 5522001943719439682
+    second: Dark_spirit-Sheet_113
+  - first:
+      213: -4824057353387051148
+    second: Dark_spirit-Sheet_114
+  - first:
+      213: 323903966325897137
+    second: Dark_spirit-Sheet_115
+  - first:
+      213: -7083240541796422633
+    second: Dark_spirit-Sheet_116
+  - first:
+      213: -1163316297295633553
+    second: Dark_spirit-Sheet_117
+  - first:
+      213: -414042243977860089
+    second: Dark_spirit-Sheet_118
+  - first:
+      213: 7067934987658513445
+    second: Dark_spirit-Sheet_119
+  - first:
+      213: -3698647213766626875
+    second: Dark_spirit-Sheet_120
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 809
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56410cd33fe809000800000000000000
+      internalID: 40689572010529893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 808
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ff45a3c9acb60e0800000000000000
+      internalID: -2275502414363295972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 805
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f484dc1ba406747c0800000000000000
+      internalID: -4087192262888568753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 802
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d698bb7a01802e690800000000000000
+      internalID: -7574482755657168531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 789
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a05cbf427eb77a60800000000000000
+      internalID: 7671809888422219941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 631
+        width: 63
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4629458fb94477b30800000000000000
+      internalID: 4284969007143228004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 626
+        width: 207
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b2c6a636b3c9ae0800000000000000
+      internalID: -1541291674294277367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 630
+        width: 105
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfb783a231559d10800000000000000
+      internalID: 2131699276563595225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 656
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f3e5374c10b9670800000000000000
+      internalID: 8546426661126422342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 655
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6016f66892ec26a0800000000000000
+      internalID: -6472549420247936915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 652
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c6ef16a5eb03770800000000000000
+      internalID: 8588573784795933809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 649
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c89fd00118e86b90800000000000000
+      internalID: -7248288440526071610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 655
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e983784185e697e10800000000000000
+      internalID: 2195907617900411038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 664
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e03b9170780df130800000000000000
+      internalID: 3602044556001620196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 659
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d95212e0591df80800000000000000
+      internalID: -8083515968235135592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 665
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944eaa41ca2c46ac0800000000000000
+      internalID: -3862748536040135607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 657
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68958474f9f3e7d40800000000000000
+      internalID: 5583970541314267526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 657
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522469b7a8c6213a0800000000000000
+      internalID: -6696170353911774683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 652
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcd65d98f0ef0b70800000000000000
+      internalID: 8867553549712022739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 663
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926ba542a66bfdd90800000000000000
+      internalID: -7070732322955676119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 660
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b642911c880a24790800000000000000
+      internalID: -7547293516303883157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 636
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ac6d736cc4b5aa0800000000000000
+      internalID: -6171254450157073846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 643
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82532c3db4e20e80800000000000000
+      internalID: -8213751268961463668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 647
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cf05cc9ba930ef0800000000000000
+      internalID: -143100640358237052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 644
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86bab857e7b87c00800000000000000
+      internalID: 898670329914373771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 653
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab919ac50d50df420800000000000000
+      internalID: 2665292946939124154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 646
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22296f1619de65e0800000000000000
+      internalID: -1914354102546390482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 652
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8212461753773f80800000000000000
+      internalID: -8126900184693992817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 624
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbe2e14ee69bad60800000000000000
+      internalID: 7902575921203440580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 626
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be22c293e5132840800000000000000
+      internalID: 5198022462079643314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 635
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fffe3dd8beb9300800000000000000
+      internalID: 260060397882572574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 636
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacf4c74ad2e5b180800000000000000
+      internalID: -9100118044897379155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 640
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9b19d2ebc7e3460800000000000000
+      internalID: 7223348008599009782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 636
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d96521d8046ff660800000000000000
+      internalID: 7421760699961272784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 641
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef9cf60245617750800000000000000
+      internalID: 6300928687927500774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 624
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1328bcde9ad8b1c20800000000000000
+      internalID: 3178289723018543665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 627
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ccd6d2eb1bb9260800000000000000
+      internalID: 7105468267471162521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 453
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9375b82fbcaee66d0800000000000000
+      internalID: -2995198540486322375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 459
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6870b268210139910800000000000000
+      internalID: 1842834344271087494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 481
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b2fb08f9c93c1f0800000000000000
+      internalID: -1025804081236595857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 461
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71825fdd7cba5d9b0800000000000000
+      internalID: -5055946131742840809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 463
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f468a62c50bfedbd0800000000000000
+      internalID: -2603367532418398641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 460
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0879045fd54c4a6c0800000000000000
+      internalID: -4132962650193619072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 466
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f612187352ce640800000000000000
+      internalID: 5110500597478551407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 452
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f057a090f0b609b40800000000000000
+      internalID: 5444969661811291407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 459
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea245a800b72a9ec0800000000000000
+      internalID: -3559488918470180178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 450
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40474d9aef4458c00800000000000000
+      internalID: 902203160919307268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 457
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa784c281ab77690800000000000000
+      internalID: -7604404832806864143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 420
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486b1a818018118a0800000000000000
+      internalID: -6336141328960604540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 425
+        width: 115
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0500706a3dbb2d4a0800000000000000
+      internalID: -6569982388682162096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 443
+        width: 67
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af012da23b6a8190800000000000000
+      internalID: -7959431526026768475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 426
+        width: 78
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5097ad1f644dd60800000000000000
+      internalID: 7914028449763231183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 457
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0555a66f3f51b00800000000000000
+      internalID: 798812748599611616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 450
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c83fe8309e36d530800000000000000
+      internalID: 3879356918177675462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 426
+        width: 67
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e128698aa003f550800000000000000
+      internalID: 6193294645014307298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 443
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b5285cf4e4e52d0800000000000000
+      internalID: -3288104573410845934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 454
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eae32e07892e3360800000000000000
+      internalID: 7151198918345485031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 450
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbef10b4dae91c750800000000000000
+      internalID: 6323509818929839807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 455
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a286bdb762c7830800000000000000
+      internalID: 4070170476639955585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 456
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c590b248d7cfe46a0800000000000000
+      internalID: -6462950799211558564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 446
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1d5665c825224d0800000000000000
+      internalID: -3160873225762254370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 455
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35918252223f24950800000000000000
+      internalID: 6431970545816312147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 439
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea363bb876b1dfd20800000000000000
+      internalID: 3313835032353924014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 440
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400feca253a9ed8b0800000000000000
+      internalID: -5125489772758896636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 441
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0789b8eae3bd83ee0800000000000000
+      internalID: -1281033031724066704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 448
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0256c2a5d4096c240800000000000000
+      internalID: 4811691913791694112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 443
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e894f69cc135410800000000000000
+      internalID: 1464545955306638868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 443
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326787c825b9a6e10800000000000000
+      internalID: 2191734947515495971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 426
+        width: 66
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884e6d84efd022330800000000000000
+      internalID: 3684522830937384072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 430
+        width: 62
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97c1ccdb1bf76f30800000000000000
+      internalID: 4568896444077033372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 439
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d25c6bcc29d159b0800000000000000
+      internalID: -5093050917164657966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 436
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbac643e3697e220800000000000000
+      internalID: 2515144110821387217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 420
+        width: 70
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef2d122977d50be0800000000000000
+      internalID: -1511565184649580566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 426
+        width: 68
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a92da2bdc9521550800000000000000
+      internalID: 6130060782805526945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 426
+        width: 66
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568a74c96da20a130800000000000000
+      internalID: 3575905205365483621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 426
+        width: 66
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85d5f7f51a08b460800000000000000
+      internalID: 7257561888978228620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 419
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5822b85011a837820800000000000000
+      internalID: 2914825189550924421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 419
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733618bd05c4f8950800000000000000
+      internalID: 6453460701208994615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 389
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f81dfa6176ac0de0800000000000000
+      internalID: -1365533580943615759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 399
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159d827e93ed2b400800000000000000
+      internalID: 338577262278924625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 363
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a58053c4bc4d7dd0800000000000000
+      internalID: -2486747079983987295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 379
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08cc239c1eaa35d0800000000000000
+      internalID: -3081959557230180339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 363
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcf388c9ba9284b0800000000000000
+      internalID: -5439615277186417409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 304
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefd3bcd2359f2940800000000000000
+      internalID: 5273597734357819370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 335
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b652b57dda6fb20800000000000000
+      internalID: 3167910528360475395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 304
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f373b89c415654f0800000000000000
+      internalID: -840394891036757008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 335
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7324ec1811af47c0800000000000000
+      internalID: -4084869212065750145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 278
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79d2771ad29b3760800000000000000
+      internalID: 7438700674926434685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 282
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380fe4ab2cc8c7120800000000000000
+      internalID: 2412958268341022851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 245
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f12c5ee5363cb8d0800000000000000
+      internalID: -2829326860635332107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 251
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22efe0376ee33a220800000000000000
+      internalID: 2495907777987149346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 273
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2862a66113faf720800000000000000
+      internalID: 2880882167718766635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 278
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f36596f8716e1d0800000000000000
+      internalID: -3321941770424139912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 282
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c860e3969d7c1560800000000000000
+      internalID: 7285836382858143944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 225
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0927e2935a03a6ec0800000000000000
+      internalID: -3572989868177984880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 249
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2ad52c47d03d180800000000000000
+      internalID: -9091908427602615594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 242
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb19bc92c51056e90800000000000000
+      internalID: -7033213747719335493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 223
+        width: 67
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19ee9b120f1ff500800000000000000
+      internalID: 432098183164651802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 224
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9dd0fc7760fd6e40800000000000000
+      internalID: 5651437434688298399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 249
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc241e2fadeca580800000000000000
+      internalID: -8814409034022769474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 225
+        width: 67
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d94b36abae383110800000000000000
+      internalID: 1240810604289804756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 221
+        width: 66
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42e025455f5f3940800000000000000
+      internalID: 5278042108138152523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 234
+        width: 66
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cd17f65ed0376b0800000000000000
+      internalID: -5299877057416537012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 218
+        width: 66
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8a8c60792342b30800000000000000
+      internalID: 4261586771634596014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 218
+        width: 66
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1452c3d4beeda6a30800000000000000
+      internalID: 4209421903925617985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 218
+        width: 66
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d318314a85b3a5a0800000000000000
+      internalID: -6511161030843296813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 218
+        width: 66
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae334fc11afcf3a0800000000000000
+      internalID: -6630149596997534033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 224
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357dea2b4ad302100800000000000000
+      internalID: 81132570874402643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 181
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd3769a86d1e4ce0800000000000000
+      internalID: -1419164497219207686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 191
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747ee8291eaed5860800000000000000
+      internalID: 7520425207325976391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 181
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd27a07bc3b1f4110800000000000000
+      internalID: 1247245569387819739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 191
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9766ec4fd2b7090800000000000000
+      internalID: -8035778580654425645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 171
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d6820899c99b890800000000000000
+      internalID: -7441744726158971536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 155
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24de960d28712ac40800000000000000
+      internalID: 5522001943719439682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 171
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477f04365618d0db0800000000000000
+      internalID: -4824057353387051148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 96
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7f136f0fcbe7400800000000000000
+      internalID: 323903966325897137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 127
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c249f714643bd90800000000000000
+      internalID: -7083240541796422633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 40
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63654abdf11bdfe0800000000000000
+      internalID: -1163316297295633553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 43
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ca1b5d5c6014af0800000000000000
+      internalID: -414042243977860089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 70
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cc0fa7c69561260800000000000000
+      internalID: 7067934987658513445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_spirit-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 74
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1b3f194f3cbacc0800000000000000
+      internalID: -3698647213766626875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dark_spirit-Sheet_0: 40689572010529893
+      Dark_spirit-Sheet_1: -2275502414363295972
+      Dark_spirit-Sheet_10: 8588573784795933809
+      Dark_spirit-Sheet_100: 1240810604289804756
+      Dark_spirit-Sheet_101: 5278042108138152523
+      Dark_spirit-Sheet_102: -5299877057416537012
+      Dark_spirit-Sheet_103: 4261586771634596014
+      Dark_spirit-Sheet_104: 4209421903925617985
+      Dark_spirit-Sheet_105: -6511161030843296813
+      Dark_spirit-Sheet_106: -6630149596997534033
+      Dark_spirit-Sheet_107: 81132570874402643
+      Dark_spirit-Sheet_108: -1419164497219207686
+      Dark_spirit-Sheet_109: 7520425207325976391
+      Dark_spirit-Sheet_11: -7248288440526071610
+      Dark_spirit-Sheet_110: 1247245569387819739
+      Dark_spirit-Sheet_111: -8035778580654425645
+      Dark_spirit-Sheet_112: -7441744726158971536
+      Dark_spirit-Sheet_113: 5522001943719439682
+      Dark_spirit-Sheet_114: -4824057353387051148
+      Dark_spirit-Sheet_115: 323903966325897137
+      Dark_spirit-Sheet_116: -7083240541796422633
+      Dark_spirit-Sheet_117: -1163316297295633553
+      Dark_spirit-Sheet_118: -414042243977860089
+      Dark_spirit-Sheet_119: 7067934987658513445
+      Dark_spirit-Sheet_12: 2195907617900411038
+      Dark_spirit-Sheet_120: -3698647213766626875
+      Dark_spirit-Sheet_13: 3602044556001620196
+      Dark_spirit-Sheet_14: -8083515968235135592
+      Dark_spirit-Sheet_15: -3862748536040135607
+      Dark_spirit-Sheet_16: 5583970541314267526
+      Dark_spirit-Sheet_17: -6696170353911774683
+      Dark_spirit-Sheet_18: 8867553549712022739
+      Dark_spirit-Sheet_19: -7070732322955676119
+      Dark_spirit-Sheet_2: -4087192262888568753
+      Dark_spirit-Sheet_20: -7547293516303883157
+      Dark_spirit-Sheet_21: -6171254450157073846
+      Dark_spirit-Sheet_22: -8213751268961463668
+      Dark_spirit-Sheet_23: -143100640358237052
+      Dark_spirit-Sheet_24: 898670329914373771
+      Dark_spirit-Sheet_25: 2665292946939124154
+      Dark_spirit-Sheet_26: -1914354102546390482
+      Dark_spirit-Sheet_27: -8126900184693992817
+      Dark_spirit-Sheet_28: 7902575921203440580
+      Dark_spirit-Sheet_29: 5198022462079643314
+      Dark_spirit-Sheet_3: -7574482755657168531
+      Dark_spirit-Sheet_30: 260060397882572574
+      Dark_spirit-Sheet_31: -9100118044897379155
+      Dark_spirit-Sheet_32: 7223348008599009782
+      Dark_spirit-Sheet_33: 7421760699961272784
+      Dark_spirit-Sheet_34: 6300928687927500774
+      Dark_spirit-Sheet_35: 3178289723018543665
+      Dark_spirit-Sheet_36: 7105468267471162521
+      Dark_spirit-Sheet_37: -2995198540486322375
+      Dark_spirit-Sheet_38: 1842834344271087494
+      Dark_spirit-Sheet_39: -1025804081236595857
+      Dark_spirit-Sheet_4: 7671809888422219941
+      Dark_spirit-Sheet_40: -5055946131742840809
+      Dark_spirit-Sheet_41: -2603367532418398641
+      Dark_spirit-Sheet_42: -4132962650193619072
+      Dark_spirit-Sheet_43: 5110500597478551407
+      Dark_spirit-Sheet_44: 5444969661811291407
+      Dark_spirit-Sheet_45: -3559488918470180178
+      Dark_spirit-Sheet_46: 902203160919307268
+      Dark_spirit-Sheet_47: -7604404832806864143
+      Dark_spirit-Sheet_48: -6336141328960604540
+      Dark_spirit-Sheet_49: -6569982388682162096
+      Dark_spirit-Sheet_5: 4284969007143228004
+      Dark_spirit-Sheet_50: -7959431526026768475
+      Dark_spirit-Sheet_51: 7914028449763231183
+      Dark_spirit-Sheet_52: 798812748599611616
+      Dark_spirit-Sheet_53: 3879356918177675462
+      Dark_spirit-Sheet_54: 6193294645014307298
+      Dark_spirit-Sheet_55: -3288104573410845934
+      Dark_spirit-Sheet_56: 7151198918345485031
+      Dark_spirit-Sheet_57: 6323509818929839807
+      Dark_spirit-Sheet_58: 4070170476639955585
+      Dark_spirit-Sheet_59: -6462950799211558564
+      Dark_spirit-Sheet_6: -1541291674294277367
+      Dark_spirit-Sheet_60: -3160873225762254370
+      Dark_spirit-Sheet_61: 6431970545816312147
+      Dark_spirit-Sheet_62: 3313835032353924014
+      Dark_spirit-Sheet_63: -5125489772758896636
+      Dark_spirit-Sheet_64: -1281033031724066704
+      Dark_spirit-Sheet_65: 4811691913791694112
+      Dark_spirit-Sheet_66: 1464545955306638868
+      Dark_spirit-Sheet_67: 2191734947515495971
+      Dark_spirit-Sheet_68: 3684522830937384072
+      Dark_spirit-Sheet_69: 4568896444077033372
+      Dark_spirit-Sheet_7: 2131699276563595225
+      Dark_spirit-Sheet_70: -5093050917164657966
+      Dark_spirit-Sheet_71: 2515144110821387217
+      Dark_spirit-Sheet_72: -1511565184649580566
+      Dark_spirit-Sheet_73: 6130060782805526945
+      Dark_spirit-Sheet_74: 3575905205365483621
+      Dark_spirit-Sheet_75: 7257561888978228620
+      Dark_spirit-Sheet_76: 2914825189550924421
+      Dark_spirit-Sheet_77: 6453460701208994615
+      Dark_spirit-Sheet_78: -1365533580943615759
+      Dark_spirit-Sheet_79: 338577262278924625
+      Dark_spirit-Sheet_8: 8546426661126422342
+      Dark_spirit-Sheet_80: -2486747079983987295
+      Dark_spirit-Sheet_81: -3081959557230180339
+      Dark_spirit-Sheet_82: -5439615277186417409
+      Dark_spirit-Sheet_83: 5273597734357819370
+      Dark_spirit-Sheet_84: 3167910528360475395
+      Dark_spirit-Sheet_85: -840394891036757008
+      Dark_spirit-Sheet_86: -4084869212065750145
+      Dark_spirit-Sheet_87: 7438700674926434685
+      Dark_spirit-Sheet_88: 2412958268341022851
+      Dark_spirit-Sheet_89: -2829326860635332107
+      Dark_spirit-Sheet_9: -6472549420247936915
+      Dark_spirit-Sheet_90: 2495907777987149346
+      Dark_spirit-Sheet_91: 2880882167718766635
+      Dark_spirit-Sheet_92: -3321941770424139912
+      Dark_spirit-Sheet_93: 7285836382858143944
+      Dark_spirit-Sheet_94: -3572989868177984880
+      Dark_spirit-Sheet_95: -9091908427602615594
+      Dark_spirit-Sheet_96: -7033213747719335493
+      Dark_spirit-Sheet_97: 432098183164651802
+      Dark_spirit-Sheet_98: 5651437434688298399
+      Dark_spirit-Sheet_99: -8814409034022769474
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
