@@ -19,25 +19,29 @@ namespace Lrw_Boss
         private IEnumerator ChangeState()
         {
             yield return new WaitForSeconds(5f);
+            _boss._bossBrain.ChangeBossState(BossStates.Quiz);
+            //int randomint = Random.Range(0,4);
+            //if (randomint == 0)
+            //{
+            //    _boss._bossBrain.ChangeBossState(BossStates.Hide);
+            //}
+            //else if (randomint == 1)
+            //{
+            //    _boss._bossBrain.ChangeBossState(BossStates.Attack1);
+            //}
+            //else if (randomint == 2)
+            //{
+            //    _boss._bossBrain.ChangeBossState(BossStates.Attack2);
+            //}
+            //else if (randomint == 3)
+            //{
+            //    _boss._bossBrain.ChangeBossState(BossStates.Attack3);
+            //}
+            //else if (randomint == 4)
+            //{
+            //    _boss._bossBrain.ChangeBossState(BossStates.Quiz);
+            //}
 
-            int randomint = Random.Range(0,4);
-            if (randomint == 0)
-            {
-                _boss._bossBrain.ChangeBossState(BossStates.Hide);
-            }
-            else if (randomint == 1)
-            {
-                _boss._bossBrain.ChangeBossState(BossStates.Attack1);
-            }
-            else if (randomint == 2)
-            {
-                _boss._bossBrain.ChangeBossState(BossStates.Attack2);
-            }
-            else if (randomint == 3)
-            {
-                _boss._bossBrain.ChangeBossState(BossStates.Attack3);
-            }
-            
         }
 
         public override void Update()
