@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using UnityEngine;
 
 namespace Lrw_Boss
 {
@@ -12,6 +13,14 @@ namespace Lrw_Boss
         public override void Enter()
         {
             Debug.Log("퀴즈시작");
+            _boss.Quiz.gameObject.SetActive(true);
+            _boss.StartCoroutine(ChangeState());
+        }
+        private IEnumerator ChangeState()
+        {
+            yield return new WaitForSeconds(5f);
+            _boss._bossBrain.ChangeBossState(BossStates.Quiz);
+
         }
 
         public override void Update()
@@ -22,6 +31,7 @@ namespace Lrw_Boss
         public override void Exit()
         {
             Debug.Log("퀴즈종료");
+            _boss.Quiz.gameObject.SetActive(false);
         }
 
     }

@@ -11,11 +11,11 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Boss
+  - Quiz
+  - PlayerAttack
+  - BossAttack
   - 
   - 
   - 
