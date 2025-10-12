@@ -22,6 +22,7 @@ namespace Lrw_Boss
         public override void Exit()
         {
             Debug.Log("퀴즈종료");
+            
         }
 
     }
