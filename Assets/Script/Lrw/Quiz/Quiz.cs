@@ -7,8 +7,8 @@ namespace Lrw_Quiz
         [SerializeField] private Transform checkTarget;
         [field: SerializeField] public bool O_Button { get; private set; } = false;
         [field: SerializeField] public bool X_Button { get; private set; } = false;
-        private QuizButton O_QuizButton;
-        private QuizButton X_QuizButton;
+        public QuizButton O_QuizButton { get; private set; }
+        public QuizButton X_QuizButton { get; private set; }
 
         private void Awake()
         {

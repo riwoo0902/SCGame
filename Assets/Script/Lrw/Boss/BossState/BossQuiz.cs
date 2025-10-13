@@ -19,7 +19,10 @@ namespace Lrw_Boss
         private IEnumerator ChangeState()
         {
             yield return new WaitForSeconds(5f);
-            _boss._bossBrain.ChangeBossState(BossStates.Quiz);
+            if(_boss.Quiz.O_Button)
+                if (_boss.Quiz.O_Button)
+                    yield return new WaitForSeconds(5f);
+            _boss._bossBrain.ChangeBossState(BossStates.Idle);
 
         }
 
