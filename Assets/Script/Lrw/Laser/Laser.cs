@@ -5,12 +5,7 @@ namespace Lrw_Laser
 {
     public class Laser : MonoBehaviour
     {
-        public Action OnEnd;
 
-        private void Awake()
-        {
-            OnEnd += Onendmas;
-        }
         public void Onendmas()
         {
             Destroy(gameObject);
