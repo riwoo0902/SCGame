@@ -15,6 +15,7 @@ public class PlayerMovement : MonoBehaviour
         GameEvent.quizStart += MoveStop;
         rb = GetComponent<Rigidbody2D>();
         playerInput = GetComponent<PlayerInput>(); // PlayerInput 컴포넌트 참조
+       
     }
 
     private void FixedUpdate()
@@ -36,4 +37,13 @@ public class PlayerMovement : MonoBehaviour
     {
         canmove = 1;
     }
+    public void MoveSpeedZero()
+    {
+        moveSpeed = 0;
+    }
+    public void MoveSpeed()
+    {
+        moveSpeed = 5;
+    }
+
 }
