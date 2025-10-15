@@ -15,11 +15,12 @@ namespace Lrw_Boss
             Debug.Log("퀴즈시작");
             _boss.Quiz.gameObject.SetActive(true);
             _boss.StartCoroutine(ChangeState());
+            _boss.Quiz.QuizStart();
         }
         private IEnumerator ChangeState()
         {
-            yield return new WaitForSeconds(5f);
-            _boss._bossBrain.ChangeBossState(BossStates.Quiz);
+            yield return new WaitForSeconds(10f);
+            _boss._bossBrain.ChangeBossState(BossStates.Idle);
 
         }
 

@@ -9,6 +9,7 @@ namespace Lrw_Boss
         [SerializeField] private BossAnimation _bossAnimation;
         [field:SerializeField] public GameObject BossAttackBulletPrefab { get; private set; }
         [field: SerializeField] public Quiz Quiz { get; private set; }
+        
         private void Awake()
         {
             _bossBrain = new BossBrain(this);
