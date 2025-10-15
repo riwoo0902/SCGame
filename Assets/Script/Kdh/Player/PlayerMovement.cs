@@ -13,6 +13,7 @@ public class PlayerMovement : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         playerInput = GetComponent<PlayerInput>(); // PlayerInput 컴포넌트 참조
+       
     }
 
     private void FixedUpdate()
@@ -25,4 +26,13 @@ public class PlayerMovement : MonoBehaviour
         Vector2 moveDir = playerInput.moveDir; // 입력 가져오기
         rb.linearVelocity = moveDir * moveSpeed;     // 속도 적용
     }
+    public void MoveSpeedZero()
+    {
+        moveSpeed = 0;
+    }
+    public void MoveSpeed()
+    {
+        moveSpeed = 5;
+    }
+
 }
