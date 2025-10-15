@@ -1,5 +1,7 @@
 using System;
+using System.Collections;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.InputSystem;
 
 public class HealthSystem : MonoBehaviour
@@ -11,7 +13,7 @@ public class HealthSystem : MonoBehaviour
     public bool IsDead { get; private set; }
 
     public event Action OnHealthChanged; 
-    public event Action OnDeath;
+    public UnityEvent OnDeath;
 
     private void Start()
     {
@@ -44,6 +46,11 @@ public class HealthSystem : MonoBehaviour
         if (IsDead) return; 
         IsDead = true;
         Debug.Log("Á×À½");
+        StartCoroutine(Dead());
+    }
+    private IEnumerator Dead()
+    {
+        yield return new WaitForSeconds(3f);
         OnDeath?.Invoke();
     }
 
