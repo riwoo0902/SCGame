@@ -8,9 +8,11 @@ public class PlayerMovement : MonoBehaviour
 
     private Rigidbody2D rb;
     private PlayerInput playerInput;
-
+    private float canmove = 1;
     private void Awake()
     {
+        GameEvent.quizTimeEnd += MoveStart;
+        GameEvent.quizStart += MoveStop;
         rb = GetComponent<Rigidbody2D>();
         playerInput = GetComponent<PlayerInput>(); // PlayerInput 컴포넌트 참조
     }
@@ -23,6 +25,15 @@ public class PlayerMovement : MonoBehaviour
     private void Move()
     {
         Vector2 moveDir = playerInput.moveDir; // 입력 가져오기
-        rb.linearVelocity = moveDir * moveSpeed;     // 속도 적용
+        rb.linearVelocity = moveDir * moveSpeed * canmove;     // 속도 적용
+    }
+
+    private void MoveStop()
+    {
+        canmove = 0;
+    }
+    private void MoveStart()
+    {
+        canmove = 1;
     }
 }
