@@ -15,6 +15,7 @@ public class HealthSystem : MonoBehaviour
     public event Action OnHealthChanged; 
     public UnityEvent OnDeath;
 
+    private bool canDamage = true;
     private void Start()
     {
         currentHealth = maxHealth;
@@ -23,15 +24,25 @@ public class HealthSystem : MonoBehaviour
 
     public void Deal(int damage)
     {
-        currentHealth = Mathf.Max(currentHealth - damage, minHealth);
-        OnHealthChanged?.Invoke();
-
-        Debug.Log("µô");
-
-        if (currentHealth == minHealth)
+        if (canDamage)
         {
-            Death();
+            currentHealth = Mathf.Max(currentHealth - damage, minHealth);
+            OnHealthChanged?.Invoke();
+            StartCoroutine(SetCandamage());
+            Debug.Log("µô");
+
+            if (currentHealth == minHealth)
+            {
+                Death();
+            }
         }
+        
+    }
+    private IEnumerator SetCandamage()
+    {
+        canDamage = false;
+        yield return new WaitForSeconds(0.2f);
+        canDamage = true;
     }
 
     public void Heal(int healAmount)

@@ -12,6 +12,7 @@ namespace Lrw_Boss
         
         private void Awake()
         {
+            
             _bossBrain = new BossBrain(this);
         }
 
