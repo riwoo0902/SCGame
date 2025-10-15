@@ -43,9 +43,8 @@ namespace Lrw_Quiz
             yield return new WaitForSeconds(5);
             Instantiate(BossLaserPrefab).transform.position = new Vector3(QuizDataSO[_quizCount].QuizValue == QuizValue.O ? 2 : -2, 0.85f, 0);
             Instantiate(BossLaserPrefab).transform.position = new Vector3(-6, 0.85f, 0);
-            Instantiate(BossLaserPrefab).transform.position = new Vector3(-4, 0.85f, 0);
             Instantiate(BossLaserPrefab).transform.position = new Vector3(6, 0.85f, 0);
-            Instantiate(BossLaserPrefab).transform.position = new Vector3(4, 0.85f, 0);
+
             _quizCount++;
 
             if (_quizCount == QuizDataSO.Length) StartCoroutine(EndWait());
