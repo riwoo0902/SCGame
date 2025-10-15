@@ -28,7 +28,7 @@ namespace Lrw_Boss
             currentTime -= Time.deltaTime;
             if (currentTime <= 0)
             {
-                currentTime += 0.15f;
+                currentTime += 0.25f;
                 Object.Instantiate(_boss.BossAttackBulletPrefab).transform.position = new Vector3(UnityEngine.Random.Range(-6f, 6f), 1, 0);
 
             }
