@@ -25,6 +25,9 @@ namespace Lrw_Boss
         private IEnumerator ChangeState()
         {
             yield return new WaitForSeconds(10f);
+
+
+
             _boss._bossBrain.ChangeBossState(BossStates.Idle);
 
 

@@ -17,9 +17,6 @@ namespace Lrw_Quiz
         private int _quizCount = 0;
         [field: SerializeField] public GameObject BossLaserPrefab { get; private set; }
         public UnityEvent OnQuizEnd;
-
-       
-
         private void Awake()
         {
             QuizButton[] _quizButtons = GetComponentsInChildren<QuizButton>();
@@ -37,7 +34,6 @@ namespace Lrw_Quiz
 
         public void QuizStart()
         {
-           
             StartCoroutine(QuizStartt());
         }
 
@@ -46,8 +42,11 @@ namespace Lrw_Quiz
             _quizText.SetTextDada(QuizDataSO[_quizCount]);
             yield return new WaitForSeconds(5);
             Instantiate(BossLaserPrefab).transform.position = new Vector3(QuizDataSO[_quizCount].QuizValue == QuizValue.O ? 2 : -2, 0.85f, 0);
-            UIManager._Instance.SetRound(_quizCount);
+            Instantiate(BossLaserPrefab).transform.position = new Vector3(-6, 0.85f, 0);
+            Instantiate(BossLaserPrefab).transform.position = new Vector3(6, 0.85f, 0);
+
             _quizCount++;
+
             if (_quizCount == QuizDataSO.Length) StartCoroutine(EndWait());
         }
         private IEnumerator EndWait()
