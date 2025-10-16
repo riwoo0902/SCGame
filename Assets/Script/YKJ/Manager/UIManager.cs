@@ -22,7 +22,7 @@ public class UIManager : MonoBehaviour
     }
     public void LodeScene()
     {
-        UnityEngine.SceneManagement.SceneManager.LoadScene(0);
+        UnityEngine.SceneManagement.SceneManager.LoadScene(1);
         UIObject.SetActive(false);
     }
     public void ExitGame() => Application.Quit();
@@ -32,7 +32,7 @@ public class UIManager : MonoBehaviour
     }
     public void SetRound(int value)
     {
-        RoundText.text = "라운드: " + (value + 1).ToString();
+        RoundText.text = "라운드: " + value.ToString();
         Debug.Log(value);
     }
 }

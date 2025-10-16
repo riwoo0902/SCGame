@@ -7,7 +7,7 @@ namespace Lrw_Boss
     {
         public BossIdle(Boss boss) : base(boss)
         {
-            
+
         }
 
         public override void Enter()
@@ -19,9 +19,9 @@ namespace Lrw_Boss
         private IEnumerator ChangeState()
         {
             yield return new WaitForSeconds(5f);
-            
-            int randomint = Random.Range(0,2);
-            if (randomint == 0)
+
+            int randomint = Random.Range(0, 5);
+            if (randomint == 0 || randomint == 4)
             {
                 _boss._bossBrain.ChangeBossState(BossStates.Quiz);
             }
@@ -29,10 +29,11 @@ namespace Lrw_Boss
             {
                 _boss._bossBrain.ChangeBossState(BossStates.Attack1);
             }
-            //else if (randomint == 2)
-            //{
-            //    _boss._bossBrain.ChangeBossState(BossStates.Attack2);
-            //}
+            else if (randomint == 2)
+            {
+                Debug.Log("asddsasdasadsdsdaasdsadadsadasdads");
+                _boss._bossBrain.ChangeBossState(BossStates.Attack2);
+            }
             //else if (randomint == 3)
             //{
             //    _boss._bossBrain.ChangeBossState(BossStates.Attack3);
@@ -46,7 +47,7 @@ namespace Lrw_Boss
 
         public override void Update()
         {
-            Debug.Log("정지중");
+
         }
 
         public override void Exit()

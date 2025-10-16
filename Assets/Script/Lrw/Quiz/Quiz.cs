@@ -46,6 +46,7 @@ namespace Lrw_Quiz
             Instantiate(BossLaserPrefab).transform.position = new Vector3(6, 0.85f, 0);
 
             _quizCount++;
+            UIManager._Instance.SetRound(_quizCount);
 
             if (_quizCount == QuizDataSO.Length) StartCoroutine(EndWait());
         }

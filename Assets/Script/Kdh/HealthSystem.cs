@@ -3,17 +3,25 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.InputSystem;
+using UnityEngine.UI;
+using static UnityEngine.Analytics.IAnalytic;
 
 public class HealthSystem : MonoBehaviour
 {
-    [SerializeField] private int maxHealth;
+    [SerializeField] private float maxHealth;
+    [SerializeField] Image image;
     private int minHealth = 0;
 
-    public int currentHealth { get; private set; }
+    public float currentHealth { get; private set; }
     public bool IsDead { get; private set; }
 
-    public event Action OnHealthChanged; 
+    public event Action OnHealthChanged;
     public UnityEvent OnDeath;
+
+
+    public UnityEvent WaitDead;
+
+    public UnityEvent IDeath;
 
     private bool canDamage = true;
     private void Start()
@@ -36,7 +44,11 @@ public class HealthSystem : MonoBehaviour
                 Death();
             }
         }
-        
+
+    }
+    private void Update()
+    {
+        image.fillAmount = currentHealth / maxHealth;
     }
     private IEnumerator SetCandamage()
     {
@@ -54,14 +66,18 @@ public class HealthSystem : MonoBehaviour
 
     public void Death()
     {
-        if (IsDead) return; 
+        if (IsDead) return;
         IsDead = true;
         Debug.Log("Á×À½");
         StartCoroutine(Dead());
     }
     private IEnumerator Dead()
     {
-        yield return new WaitForSeconds(3f);
+        IDeath?.Invoke();
+        yield return new WaitForSecondsRealtime(2f);
+        WaitDead?.Invoke();
+        Time.timeScale = 0.5f;
+        yield return new WaitForSecondsRealtime(1f);
         OnDeath?.Invoke();
     }
 
