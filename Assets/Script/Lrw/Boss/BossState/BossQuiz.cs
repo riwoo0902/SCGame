@@ -24,7 +24,7 @@ namespace Lrw_Boss
         }
         private IEnumerator ChangeState()
         {
-            yield return new WaitForSeconds(10f);
+            yield return new WaitForSeconds(8f);
 
 
 
@@ -41,6 +41,7 @@ namespace Lrw_Boss
         {
           
             _boss.Quiz.gameObject.SetActive(false);
+            GameEvent.quizTimeEnd?.Invoke();
         }
 
     }
