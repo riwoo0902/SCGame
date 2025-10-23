@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: f3f136357bb7a7842b910ad11a9a1633
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7501126214323468438
+    second: PowerBeam-Sheet_0
+  - first:
+      213: 7586129727547120193
+    second: PowerBeam-Sheet_1
+  - first:
+      213: 823701252769427321
+    second: PowerBeam-Sheet_2
+  - first:
+      213: -9140564712363882719
+    second: PowerBeam-Sheet_3
+  - first:
+      213: -2807059329221517781
+    second: PowerBeam-Sheet_4
+  - first:
+      213: 3248564057972630872
+    second: PowerBeam-Sheet_5
+  - first:
+      213: -5789746786552638737
+    second: PowerBeam-Sheet_6
+  - first:
+      213: 5096237326432350809
+    second: PowerBeam-Sheet_7
+  - first:
+      213: 2529003349196431743
+    second: PowerBeam-Sheet_8
+  - first:
+      213: -5831506402827095995
+    second: PowerBeam-Sheet_9
+  - first:
+      213: -393376638375030560
+    second: PowerBeam-Sheet_10
+  - first:
+      213: 6523019164676180472
+    second: PowerBeam-Sheet_11
+  - first:
+      213: -9051270384394323918
+    second: PowerBeam-Sheet_12
+  - first:
+      213: -5865042444559198470
+    second: PowerBeam-Sheet_13
+  - first:
+      213: 1427853350403192118
+    second: PowerBeam-Sheet_14
+  - first:
+      213: -8064798594720529516
+    second: PowerBeam-Sheet_15
+  - first:
+      213: 2038604477485559570
+    second: PowerBeam-Sheet_16
+  - first:
+      213: 5346789696066575384
+    second: PowerBeam-Sheet_17
+  - first:
+      213: 3880821940818300023
+    second: PowerBeam-Sheet_18
+  - first:
+      213: -175536405718889505
+    second: PowerBeam-Sheet_19
+  - first:
+      213: 8612312944698160076
+    second: PowerBeam-Sheet_20
+  - first:
+      213: 6905575780558213241
+    second: PowerBeam-Sheet_21
+  - first:
+      213: 2996717416469552101
+    second: PowerBeam-Sheet_22
+  - first:
+      213: 5100081891881773181
+    second: PowerBeam-Sheet_23
+  - first:
+      213: -549120343583179890
+    second: PowerBeam-Sheet_24
+  - first:
+      213: -7269094178855344498
+    second: PowerBeam-Sheet_25
+  - first:
+      213: 2187438727025706582
+    second: PowerBeam-Sheet_26
+  - first:
+      213: 4837703245417236042
+    second: PowerBeam-Sheet_27
+  - first:
+      213: 2213231846790581583
+    second: PowerBeam-Sheet_28
+  - first:
+      213: -7223340543539466594
+    second: PowerBeam-Sheet_29
+  - first:
+      213: 3469964495867643704
+    second: PowerBeam-Sheet_30
+  - first:
+      213: -8950719645504325908
+    second: PowerBeam-Sheet_31
+  - first:
+      213: -1648225881209728161
+    second: PowerBeam-Sheet_32
+  - first:
+      213: 5116262784015956775
+    second: PowerBeam-Sheet_33
+  - first:
+      213: -7010586928599147615
+    second: PowerBeam-Sheet_34
+  - first:
+      213: 6712501096038387984
+    second: PowerBeam-Sheet_35
+  - first:
+      213: 9120368845467728407
+    second: PowerBeam-Sheet_36
+  - first:
+      213: -5857123546822015913
+    second: PowerBeam-Sheet_37
+  - first:
+      213: 7448842525213919609
+    second: PowerBeam-Sheet_38
+  - first:
+      213: -5248518497255916784
+    second: PowerBeam-Sheet_39
+  - first:
+      213: -6074711467807085125
+    second: PowerBeam-Sheet_40
+  - first:
+      213: 6625080430095699752
+    second: PowerBeam-Sheet_41
+  - first:
+      213: -8080165429035578552
+    second: PowerBeam-Sheet_42
+  - first:
+      213: 8151768307907305123
+    second: PowerBeam-Sheet_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 297
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698fe1c9c8a591860800000000000000
+      internalID: 7501126214323468438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 209
+        width: 47
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a1a7e4bc8574960800000000000000
+      internalID: 7586129727547120193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 180
+        width: 48
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fad5cdcef5e6b00800000000000000
+      internalID: 823701252769427321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 180
+        width: 60
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1278419a2d0362180800000000000000
+      internalID: -9140564712363882719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 180
+        width: 77
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e1e4a99625b09d0800000000000000
+      internalID: -2807059329221517781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 180
+        width: 81
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8556f819cc7351d20800000000000000
+      internalID: 3248564057972630872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 334
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2121819ffa6afa0800000000000000
+      internalID: -5789746786552638737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 180
+        width: 82
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952361de8d879b640800000000000000
+      internalID: 5096237326432350809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 180
+        width: 102
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7160a89523d81320800000000000000
+      internalID: 2529003349196431743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 180
+        width: 87
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5403312c2d3521fa0800000000000000
+      internalID: -5831506402827095995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 336
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e018b618027a8af0800000000000000
+      internalID: -393376638375030560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 180
+        width: 100
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9c69dae5b668a50800000000000000
+      internalID: 6523019164676180472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 337
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238b9248a8d636280800000000000000
+      internalID: -9051270384394323918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 180
+        width: 85
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6d57398fe2b9ea0800000000000000
+      internalID: -5865042444559198470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 337
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635322e9e01c0d310800000000000000
+      internalID: 1427853350403192118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 311
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4930d904864141090800000000000000
+      internalID: -8064798594720529516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 305
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f2c06a8f39a4c10800000000000000
+      internalID: 2038604477485559570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 300
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c54ca66ec933a40800000000000000
+      internalID: 5346789696066575384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 182
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c44036ef27bd530800000000000000
+      internalID: 3880821940818300023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 90
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb0afba19e509df0800000000000000
+      internalID: -175536405718889505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 4
+        width: 99
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc37b334ef4158770800000000000000
+      internalID: 8612312944698160076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 4
+        width: 100
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97096b9c59885df50800000000000000
+      internalID: 6905575780558213241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 4
+        width: 78
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebd4ecec9a769920800000000000000
+      internalID: 2996717416469552101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 166
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78e303957127c640800000000000000
+      internalID: 5100081891881773181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 4
+        width: 90
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bb8c5f4f12168f0800000000000000
+      internalID: -549120343583179890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 4
+        width: 83
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86a77e8b5dfe1b90800000000000000
+      internalID: -7269094178855344498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 4
+        width: 67
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656cc44cee75b5e10800000000000000
+      internalID: 2187438727025706582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4
+        width: 59
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4649df6879f22340800000000000000
+      internalID: 4837703245417236042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 5
+        width: 60
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4dc88173aaf6be10800000000000000
+      internalID: 2213231846790581583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 158
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e27aaeb0a81cb90800000000000000
+      internalID: -7223340543539466594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 158
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8378867035ac72030800000000000000
+      internalID: 3469964495867643704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 106
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6ba95c7e7a8c380800000000000000
+      internalID: -8950719645504325908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 114
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5393e03b435029e0800000000000000
+      internalID: -1648225881209728161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 115
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b72da15ed900740800000000000000
+      internalID: 5116262784015956775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 137
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abd9d5055465be90800000000000000
+      internalID: -7010586928599147615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 140
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011d9c7be28972d50800000000000000
+      internalID: 6712501096038387984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 140
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ab4a6a42f029e70800000000000000
+      internalID: 9120368845467728407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 142
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7540912aa2157bea0800000000000000
+      internalID: -5857123546822015913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 126
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979033f9fca9f5760800000000000000
+      internalID: 7448842525213919609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 126
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b7efd0c348927b0800000000000000
+      internalID: -5248518497255916784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 125
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbded50fa1a42bba0800000000000000
+      internalID: -6074711467807085125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 124
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f0f3ccc8301fb50800000000000000
+      internalID: 6625080430095699752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 125
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b41f35a5c7ddf80800000000000000
+      internalID: -8080165429035578552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerBeam-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 16
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae1a1c0616e02170800000000000000
+      internalID: 8151768307907305123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PowerBeam-Sheet_0: 7501126214323468438
+      PowerBeam-Sheet_1: 7586129727547120193
+      PowerBeam-Sheet_10: -393376638375030560
+      PowerBeam-Sheet_11: 6523019164676180472
+      PowerBeam-Sheet_12: -9051270384394323918
+      PowerBeam-Sheet_13: -5865042444559198470
+      PowerBeam-Sheet_14: 1427853350403192118
+      PowerBeam-Sheet_15: -8064798594720529516
+      PowerBeam-Sheet_16: 2038604477485559570
+      PowerBeam-Sheet_17: 5346789696066575384
+      PowerBeam-Sheet_18: 3880821940818300023
+      PowerBeam-Sheet_19: -175536405718889505
+      PowerBeam-Sheet_2: 823701252769427321
+      PowerBeam-Sheet_20: 8612312944698160076
+      PowerBeam-Sheet_21: 6905575780558213241
+      PowerBeam-Sheet_22: 2996717416469552101
+      PowerBeam-Sheet_23: 5100081891881773181
+      PowerBeam-Sheet_24: -549120343583179890
+      PowerBeam-Sheet_25: -7269094178855344498
+      PowerBeam-Sheet_26: 2187438727025706582
+      PowerBeam-Sheet_27: 4837703245417236042
+      PowerBeam-Sheet_28: 2213231846790581583
+      PowerBeam-Sheet_29: -7223340543539466594
+      PowerBeam-Sheet_3: -9140564712363882719
+      PowerBeam-Sheet_30: 3469964495867643704
+      PowerBeam-Sheet_31: -8950719645504325908
+      PowerBeam-Sheet_32: -1648225881209728161
+      PowerBeam-Sheet_33: 5116262784015956775
+      PowerBeam-Sheet_34: -7010586928599147615
+      PowerBeam-Sheet_35: 6712501096038387984
+      PowerBeam-Sheet_36: 9120368845467728407
+      PowerBeam-Sheet_37: -5857123546822015913
+      PowerBeam-Sheet_38: 7448842525213919609
+      PowerBeam-Sheet_39: -5248518497255916784
+      PowerBeam-Sheet_4: -2807059329221517781
+      PowerBeam-Sheet_40: -6074711467807085125
+      PowerBeam-Sheet_41: 6625080430095699752
+      PowerBeam-Sheet_42: -8080165429035578552
+      PowerBeam-Sheet_43: 8151768307907305123
+      PowerBeam-Sheet_5: 3248564057972630872
+      PowerBeam-Sheet_6: -5789746786552638737
+      PowerBeam-Sheet_7: 5096237326432350809
+      PowerBeam-Sheet_8: 2529003349196431743
+      PowerBeam-Sheet_9: -5831506402827095995
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

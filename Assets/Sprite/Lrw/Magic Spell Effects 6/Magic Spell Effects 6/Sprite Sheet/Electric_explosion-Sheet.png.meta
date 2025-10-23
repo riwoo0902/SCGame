@@ -1,0 +1,2301 @@
+fileFormatVersion: 2
+guid: 22b888a07f8c67e4f8d0ad65e61cce11
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5338889802492106276
+    second: Electric_explosion-Sheet_0
+  - first:
+      213: -4489171090716288403
+    second: Electric_explosion-Sheet_1
+  - first:
+      213: 1249132002539889873
+    second: Electric_explosion-Sheet_2
+  - first:
+      213: 212412180917481889
+    second: Electric_explosion-Sheet_3
+  - first:
+      213: 1786251739628552228
+    second: Electric_explosion-Sheet_4
+  - first:
+      213: 686292837804533821
+    second: Electric_explosion-Sheet_5
+  - first:
+      213: -7510693128758037247
+    second: Electric_explosion-Sheet_6
+  - first:
+      213: 909632787804060933
+    second: Electric_explosion-Sheet_7
+  - first:
+      213: -409319951252143233
+    second: Electric_explosion-Sheet_8
+  - first:
+      213: 6753022627349061902
+    second: Electric_explosion-Sheet_9
+  - first:
+      213: -4361159585430564625
+    second: Electric_explosion-Sheet_10
+  - first:
+      213: 7344474459243685026
+    second: Electric_explosion-Sheet_11
+  - first:
+      213: 2396818821430323943
+    second: Electric_explosion-Sheet_12
+  - first:
+      213: -6057475956638306442
+    second: Electric_explosion-Sheet_13
+  - first:
+      213: -7251563926195137317
+    second: Electric_explosion-Sheet_14
+  - first:
+      213: -5404125634644506329
+    second: Electric_explosion-Sheet_15
+  - first:
+      213: 718268142783433713
+    second: Electric_explosion-Sheet_16
+  - first:
+      213: -1825374269480669428
+    second: Electric_explosion-Sheet_17
+  - first:
+      213: 475552782620227666
+    second: Electric_explosion-Sheet_18
+  - first:
+      213: -4174524054447436468
+    second: Electric_explosion-Sheet_19
+  - first:
+      213: -5461939658292882633
+    second: Electric_explosion-Sheet_20
+  - first:
+      213: -6091848224963818808
+    second: Electric_explosion-Sheet_21
+  - first:
+      213: 7788098229878632716
+    second: Electric_explosion-Sheet_22
+  - first:
+      213: -8459353557977473947
+    second: Electric_explosion-Sheet_23
+  - first:
+      213: 2509103402715791263
+    second: Electric_explosion-Sheet_24
+  - first:
+      213: -4616818638634767817
+    second: Electric_explosion-Sheet_25
+  - first:
+      213: 5257986775739891185
+    second: Electric_explosion-Sheet_26
+  - first:
+      213: 5558575603301103089
+    second: Electric_explosion-Sheet_27
+  - first:
+      213: -997212969797001575
+    second: Electric_explosion-Sheet_28
+  - first:
+      213: -7296079923951834396
+    second: Electric_explosion-Sheet_29
+  - first:
+      213: 913017936145552989
+    second: Electric_explosion-Sheet_30
+  - first:
+      213: -5125873051609780984
+    second: Electric_explosion-Sheet_31
+  - first:
+      213: -58740268983098140
+    second: Electric_explosion-Sheet_32
+  - first:
+      213: -2030456078581139951
+    second: Electric_explosion-Sheet_33
+  - first:
+      213: 5791624695176861512
+    second: Electric_explosion-Sheet_34
+  - first:
+      213: -610396295424382301
+    second: Electric_explosion-Sheet_35
+  - first:
+      213: -6363913803044882130
+    second: Electric_explosion-Sheet_36
+  - first:
+      213: -2480835018130391142
+    second: Electric_explosion-Sheet_37
+  - first:
+      213: 6326779622448501883
+    second: Electric_explosion-Sheet_38
+  - first:
+      213: 7215570455998953430
+    second: Electric_explosion-Sheet_39
+  - first:
+      213: 1041217196570093153
+    second: Electric_explosion-Sheet_40
+  - first:
+      213: -8033397474588303020
+    second: Electric_explosion-Sheet_41
+  - first:
+      213: -8899020857613255512
+    second: Electric_explosion-Sheet_42
+  - first:
+      213: 1641941240515577496
+    second: Electric_explosion-Sheet_43
+  - first:
+      213: 8605657564370952844
+    second: Electric_explosion-Sheet_44
+  - first:
+      213: 7924804555525800756
+    second: Electric_explosion-Sheet_45
+  - first:
+      213: 5015223192711088979
+    second: Electric_explosion-Sheet_46
+  - first:
+      213: 3085952675411621728
+    second: Electric_explosion-Sheet_47
+  - first:
+      213: 4729877485130441855
+    second: Electric_explosion-Sheet_48
+  - first:
+      213: 8376025957109424148
+    second: Electric_explosion-Sheet_49
+  - first:
+      213: -7968627973056432801
+    second: Electric_explosion-Sheet_50
+  - first:
+      213: -6943869789533012360
+    second: Electric_explosion-Sheet_51
+  - first:
+      213: -1519060527555439023
+    second: Electric_explosion-Sheet_52
+  - first:
+      213: 3616880059297516978
+    second: Electric_explosion-Sheet_53
+  - first:
+      213: 7693431354855635024
+    second: Electric_explosion-Sheet_54
+  - first:
+      213: -7894996795427998725
+    second: Electric_explosion-Sheet_55
+  - first:
+      213: -4296077063185926652
+    second: Electric_explosion-Sheet_56
+  - first:
+      213: 3122421342167572086
+    second: Electric_explosion-Sheet_57
+  - first:
+      213: 303592084996024718
+    second: Electric_explosion-Sheet_58
+  - first:
+      213: 1867118524010898733
+    second: Electric_explosion-Sheet_59
+  - first:
+      213: -4915722759420844321
+    second: Electric_explosion-Sheet_60
+  - first:
+      213: 1981115918665983654
+    second: Electric_explosion-Sheet_61
+  - first:
+      213: 1234035009778386970
+    second: Electric_explosion-Sheet_62
+  - first:
+      213: -1731592016150459546
+    second: Electric_explosion-Sheet_63
+  - first:
+      213: 4343898123518457521
+    second: Electric_explosion-Sheet_64
+  - first:
+      213: -6443496775001749437
+    second: Electric_explosion-Sheet_65
+  - first:
+      213: 3664851764255518557
+    second: Electric_explosion-Sheet_66
+  - first:
+      213: 8581277681114151854
+    second: Electric_explosion-Sheet_67
+  - first:
+      213: -2458465908776016019
+    second: Electric_explosion-Sheet_68
+  - first:
+      213: -3552651913108015988
+    second: Electric_explosion-Sheet_69
+  - first:
+      213: 8996299203198048872
+    second: Electric_explosion-Sheet_70
+  - first:
+      213: 6373058434639192270
+    second: Electric_explosion-Sheet_71
+  - first:
+      213: 4150487421124678131
+    second: Electric_explosion-Sheet_72
+  - first:
+      213: 5793326695035933042
+    second: Electric_explosion-Sheet_73
+  - first:
+      213: 3460444072584342584
+    second: Electric_explosion-Sheet_74
+  - first:
+      213: -3171108776194518899
+    second: Electric_explosion-Sheet_75
+  - first:
+      213: -7107012171969098033
+    second: Electric_explosion-Sheet_76
+  - first:
+      213: 1194739707995288537
+    second: Electric_explosion-Sheet_77
+  - first:
+      213: 8188134741001900296
+    second: Electric_explosion-Sheet_78
+  - first:
+      213: 8587818177804091876
+    second: Electric_explosion-Sheet_79
+  - first:
+      213: -6286647405338529204
+    second: Electric_explosion-Sheet_80
+  - first:
+      213: -5667352643323997459
+    second: Electric_explosion-Sheet_81
+  - first:
+      213: -3141985898665167471
+    second: Electric_explosion-Sheet_82
+  - first:
+      213: -5254338248091685961
+    second: Electric_explosion-Sheet_83
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 176
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9a083e20478e5b0800000000000000
+      internalID: -5338889802492106276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 170
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a17e97da243b1c0800000000000000
+      internalID: -4489171090716288403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 181
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d466f820fec55110800000000000000
+      internalID: 1249132002539889873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 166
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a17d8dc0c3a2f200800000000000000
+      internalID: 212412180917481889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 190
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420cbf34e7a0ac810800000000000000
+      internalID: 1786251739628552228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 194
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38eb3923b3368900800000000000000
+      internalID: 686292837804533821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 189
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105f86b8468a4c790800000000000000
+      internalID: -7510693128758037247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 170
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dfb19733aaf9c00800000000000000
+      internalID: 909632787804060933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 200
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73c22a4cadc15af0800000000000000
+      internalID: -409319951252143233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 178
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01e05fec4e87bd50800000000000000
+      internalID: 6753022627349061902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 28
+        width: 93
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe01f95a67c0a73c0800000000000000
+      internalID: -4361159585430564625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 194
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a42625ab90dce560800000000000000
+      internalID: 7344474459243685026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 200
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea235ae406334120800000000000000
+      internalID: 2396818821430323943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 202
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67faa1916b58feba0800000000000000
+      internalID: -6057475956638306442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd41a1197054d5b90800000000000000
+      internalID: -7251563926195137317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 160
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7298e691e50b005b0800000000000000
+      internalID: -5404125634644506329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 189
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb0610021dc7f900800000000000000
+      internalID: 718268142783433713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 175
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f677de5c7faa6e0800000000000000
+      internalID: -1825374269480669428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 183
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258f6087cb0899600800000000000000
+      internalID: 475552782620227666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 171
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d46547d7c1116c0800000000000000
+      internalID: -4174524054447436468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 179
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73395d2c1da4334b0800000000000000
+      internalID: -5461939658292882633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 160
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca007db058657ba0800000000000000
+      internalID: -6091848224963818808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 173
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01b3c3b312e41c60800000000000000
+      internalID: 7788098229878632716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cd05332c65a9a80800000000000000
+      internalID: -8459353557977473947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 56
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f399f304022d220800000000000000
+      internalID: 2509103402715791263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 29
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73aa5cbb8e3cdefb0800000000000000
+      internalID: -4616818638634767817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 99
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd7da15d1f18f840800000000000000
+      internalID: 5257986775739891185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 105
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f53ae38f07042d40800000000000000
+      internalID: 5558575603301103089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 102
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e56d166103922f0800000000000000
+      internalID: -997212969797001575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 103
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eaedf727fd1fba90800000000000000
+      internalID: -7296079923951834396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 80
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56148db9f0bbac00800000000000000
+      internalID: 913017936145552989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 61
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d2d0b1e9d3dd8b0800000000000000
+      internalID: -5125873051609780984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 31
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4604d59005f2ff0800000000000000
+      internalID: -58740268983098140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 81
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116732054fe52d3e0800000000000000
+      internalID: -2030456078581139951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 60
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847956499fbff5050800000000000000
+      internalID: 5791624695176861512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 36
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aae307adcf6787f0800000000000000
+      internalID: -610396295424382301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 84
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29fd441d16dea7a0800000000000000
+      internalID: -6363913803044882130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 84
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ffcfde1bd429dd0800000000000000
+      internalID: -2480835018130391142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 93
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b741930cb8c3dc750800000000000000
+      internalID: 6326779622448501883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 86
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7fe99991bd22460800000000000000
+      internalID: 7215570455998953430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 41
+        width: 18
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166a69f0685237e00800000000000000
+      internalID: 1041217196570093153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 22
+        width: 68
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451e4a34f83a38090800000000000000
+      internalID: -8033397474588303020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 58
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac7b25dda3508480800000000000000
+      internalID: -8899020857613255512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 56
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896cefedbd859c610800000000000000
+      internalID: 1641941240515577496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 59
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82ebf6c5ff6d6770800000000000000
+      internalID: 8605657564370952844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 60
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433438e71cf8afd60800000000000000
+      internalID: 7924804555525800756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 41
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b48d60ce6a99540800000000000000
+      internalID: 5015223192711088979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 80
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0677393bb9183da20800000000000000
+      internalID: 3085952675411621728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 37
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7461544386e3a140800000000000000
+      internalID: 4729877485130441855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 31
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41065fada3f9d3470800000000000000
+      internalID: 8376025957109424148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 65
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55fabef31fb96190800000000000000
+      internalID: -7968627973056432801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 54
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e7154773b62af90800000000000000
+      internalID: -6943869789533012360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 81
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1569dbe9f763beae0800000000000000
+      internalID: -1519060527555439023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 55
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd4f99304db13230800000000000000
+      internalID: 3616880059297516978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 66
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058b5024e0f84ca60800000000000000
+      internalID: 7693431354855635024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 55
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3baa97e365f6290800000000000000
+      internalID: -7894996795427998725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 63
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40679113ca44164c0800000000000000
+      internalID: -4296077063185926652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 81
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e1ffadaa1155b20800000000000000
+      internalID: 3122421342167572086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 65
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89eece8463963400800000000000000
+      internalID: 303592084996024718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 55
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25a839b76659e910800000000000000
+      internalID: 1867118524010898733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 55
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6ea66e138d7cbb0800000000000000
+      internalID: -4915722759420844321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 19
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a625fe7e665e7b10800000000000000
+      internalID: 1981115918665983654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 56
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a188c3e9d4c202110800000000000000
+      internalID: 1234035009778386970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 61
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b03755c3628f7e0800000000000000
+      internalID: -1731592016150459546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 44
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6bdc01450a84c30800000000000000
+      internalID: 4343898123518457521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 40
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34845ae72d91496a0800000000000000
+      internalID: -6443496775001749437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fe9ea234b2cd230800000000000000
+      internalID: 3664851764255518557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 45
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabfbcdd592d61770800000000000000
+      internalID: 8581277681114151854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 41
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d676ffe0846c1edd0800000000000000
+      internalID: -2458465908776016019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 50
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84b59468e172bec0800000000000000
+      internalID: -3552651913108015988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 48
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86adfbbf57649dc70800000000000000
+      internalID: 8996299203198048872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 42
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0e97161e6a17850800000000000000
+      internalID: 6373058434639192270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f11ddcb15e799930800000000000000
+      internalID: 4150487421124678131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 44
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271976d4fe7066050800000000000000
+      internalID: 5793326695035933042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 42
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cee7fbc87f50030800000000000000
+      internalID: 3460444072584342584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 19
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d805dca8e55fdf3d0800000000000000
+      internalID: -3171108776194518899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 19
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce876b8512de5d90800000000000000
+      internalID: -7107012171969098033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 30
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3fc163f61949010800000000000000
+      internalID: 1194739707995288537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 27
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80114721a2912a170800000000000000
+      internalID: 8188134741001900296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 19
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1c7abe12f0e2770800000000000000
+      internalID: 8587818177804091876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 29
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c427aa03e7751c8a0800000000000000
+      internalID: -6286647405338529204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 28
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de25dcd3cc48951b0800000000000000
+      internalID: -5667352643323997459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 19
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195b6ccd87c6564d0800000000000000
+      internalID: -3141985898665167471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_explosion-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 30
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb2fb8b337d417b0800000000000000
+      internalID: -5254338248091685961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Electric_explosion-Sheet_0: -5338889802492106276
+      Electric_explosion-Sheet_1: -4489171090716288403
+      Electric_explosion-Sheet_10: -4361159585430564625
+      Electric_explosion-Sheet_11: 7344474459243685026
+      Electric_explosion-Sheet_12: 2396818821430323943
+      Electric_explosion-Sheet_13: -6057475956638306442
+      Electric_explosion-Sheet_14: -7251563926195137317
+      Electric_explosion-Sheet_15: -5404125634644506329
+      Electric_explosion-Sheet_16: 718268142783433713
+      Electric_explosion-Sheet_17: -1825374269480669428
+      Electric_explosion-Sheet_18: 475552782620227666
+      Electric_explosion-Sheet_19: -4174524054447436468
+      Electric_explosion-Sheet_2: 1249132002539889873
+      Electric_explosion-Sheet_20: -5461939658292882633
+      Electric_explosion-Sheet_21: -6091848224963818808
+      Electric_explosion-Sheet_22: 7788098229878632716
+      Electric_explosion-Sheet_23: -8459353557977473947
+      Electric_explosion-Sheet_24: 2509103402715791263
+      Electric_explosion-Sheet_25: -4616818638634767817
+      Electric_explosion-Sheet_26: 5257986775739891185
+      Electric_explosion-Sheet_27: 5558575603301103089
+      Electric_explosion-Sheet_28: -997212969797001575
+      Electric_explosion-Sheet_29: -7296079923951834396
+      Electric_explosion-Sheet_3: 212412180917481889
+      Electric_explosion-Sheet_30: 913017936145552989
+      Electric_explosion-Sheet_31: -5125873051609780984
+      Electric_explosion-Sheet_32: -58740268983098140
+      Electric_explosion-Sheet_33: -2030456078581139951
+      Electric_explosion-Sheet_34: 5791624695176861512
+      Electric_explosion-Sheet_35: -610396295424382301
+      Electric_explosion-Sheet_36: -6363913803044882130
+      Electric_explosion-Sheet_37: -2480835018130391142
+      Electric_explosion-Sheet_38: 6326779622448501883
+      Electric_explosion-Sheet_39: 7215570455998953430
+      Electric_explosion-Sheet_4: 1786251739628552228
+      Electric_explosion-Sheet_40: 1041217196570093153
+      Electric_explosion-Sheet_41: -8033397474588303020
+      Electric_explosion-Sheet_42: -8899020857613255512
+      Electric_explosion-Sheet_43: 1641941240515577496
+      Electric_explosion-Sheet_44: 8605657564370952844
+      Electric_explosion-Sheet_45: 7924804555525800756
+      Electric_explosion-Sheet_46: 5015223192711088979
+      Electric_explosion-Sheet_47: 3085952675411621728
+      Electric_explosion-Sheet_48: 4729877485130441855
+      Electric_explosion-Sheet_49: 8376025957109424148
+      Electric_explosion-Sheet_5: 686292837804533821
+      Electric_explosion-Sheet_50: -7968627973056432801
+      Electric_explosion-Sheet_51: -6943869789533012360
+      Electric_explosion-Sheet_52: -1519060527555439023
+      Electric_explosion-Sheet_53: 3616880059297516978
+      Electric_explosion-Sheet_54: 7693431354855635024
+      Electric_explosion-Sheet_55: -7894996795427998725
+      Electric_explosion-Sheet_56: -4296077063185926652
+      Electric_explosion-Sheet_57: 3122421342167572086
+      Electric_explosion-Sheet_58: 303592084996024718
+      Electric_explosion-Sheet_59: 1867118524010898733
+      Electric_explosion-Sheet_6: -7510693128758037247
+      Electric_explosion-Sheet_60: -4915722759420844321
+      Electric_explosion-Sheet_61: 1981115918665983654
+      Electric_explosion-Sheet_62: 1234035009778386970
+      Electric_explosion-Sheet_63: -1731592016150459546
+      Electric_explosion-Sheet_64: 4343898123518457521
+      Electric_explosion-Sheet_65: -6443496775001749437
+      Electric_explosion-Sheet_66: 3664851764255518557
+      Electric_explosion-Sheet_67: 8581277681114151854
+      Electric_explosion-Sheet_68: -2458465908776016019
+      Electric_explosion-Sheet_69: -3552651913108015988
+      Electric_explosion-Sheet_7: 909632787804060933
+      Electric_explosion-Sheet_70: 8996299203198048872
+      Electric_explosion-Sheet_71: 6373058434639192270
+      Electric_explosion-Sheet_72: 4150487421124678131
+      Electric_explosion-Sheet_73: 5793326695035933042
+      Electric_explosion-Sheet_74: 3460444072584342584
+      Electric_explosion-Sheet_75: -3171108776194518899
+      Electric_explosion-Sheet_76: -7107012171969098033
+      Electric_explosion-Sheet_77: 1194739707995288537
+      Electric_explosion-Sheet_78: 8188134741001900296
+      Electric_explosion-Sheet_79: 8587818177804091876
+      Electric_explosion-Sheet_8: -409319951252143233
+      Electric_explosion-Sheet_80: -6286647405338529204
+      Electric_explosion-Sheet_81: -5667352643323997459
+      Electric_explosion-Sheet_82: -3141985898665167471
+      Electric_explosion-Sheet_83: -5254338248091685961
+      Electric_explosion-Sheet_9: 6753022627349061902
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
