@@ -8,6 +8,7 @@ namespace Lrw_Boss
         private SpriteRenderer _spriteRenderer;
         private void Awake()
         {
+           
             _animator = GetComponent<Animator>();
             _spriteRenderer = GetComponent<SpriteRenderer>();
         }

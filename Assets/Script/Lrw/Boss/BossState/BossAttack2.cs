@@ -1,4 +1,5 @@
 using System.Collections;
+using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 namespace Lrw_Boss
@@ -7,6 +8,7 @@ namespace Lrw_Boss
     {
         private GameObject center;
         private float currentTime = 0;
+
         public BossAttack2(Boss boss) : base(boss)
         {
 
@@ -20,13 +22,13 @@ namespace Lrw_Boss
 
         public override void Update()
         {
+
             currentTime -= Time.deltaTime;
             if (currentTime <= 0)
             {
                 currentTime += 0.5f;
                 GameObject attack = Object.Instantiate(_boss.BossAttackBulletPrefab);
                 attack.transform.parent = center.transform;
-                attack.transform.position = new Vector3(Random.Range(0, 2f), 0, 0);
 
             }
         }

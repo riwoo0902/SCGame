@@ -1,7 +1,8 @@
-using System;
+
 using System.Collections;
 using UnityEngine;
 using UnityEngine.Events;
+
 
 namespace Lrw_Quiz
 {
@@ -14,7 +15,7 @@ namespace Lrw_Quiz
         public QuizButton X_QuizButton { get; private set; }
         [SerializeField] private QuizText _quizText;
         [SerializeField] private QuizData[] QuizDataSO;
-        private int _quizCount = 0;
+        public int _quizCount = 0;
         [field: SerializeField] public GameObject BossLaserPrefab { get; private set; }
         public UnityEvent OnQuizEnd;
         private void Awake()
@@ -49,13 +50,21 @@ namespace Lrw_Quiz
             _quizCount++;
             UIManager._Instance.SetRound(_quizCount);
 
-            if (_quizCount == QuizDataSO.Length) StartCoroutine(EndWait());
+            if (_quizCount == QuizDataSO.Length)
+            {
+                Invoke("EndWaitTest", 4);
+             
+            }
         }
+
+        private void EndWaitTest() => UnityEngine.SceneManagement.SceneManager.LoadScene(3);
         private IEnumerator EndWait()
         {
-            yield return new WaitForSeconds(5);
-            OnQuizEnd?.Invoke();
-            
+            Debug.Log("¿Ô¾û¤µ");
+            yield return new WaitForSecondsRealtime(4);
+            Debug.Log("¾È³çÇÏ¼¼¿ä ¾À ·Îµå µÆ½À´Ï´Ù");
+           
+
         }
 
     }

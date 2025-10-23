@@ -20,8 +20,8 @@ namespace Lrw_Boss
         {
             yield return new WaitForSeconds(5f);
 
-            int randomint = Random.Range(0, 5);
-            if (randomint == 0 || randomint == 4)
+            int randomint = Random.Range(0, 4);
+            if (randomint == 0 || randomint == 4 || randomint == 3)
             {
                 _boss._bossBrain.ChangeBossState(BossStates.Quiz);
             }
@@ -31,7 +31,8 @@ namespace Lrw_Boss
             }
             else if (randomint == 2)
             {
-                Debug.Log("asddsasdasadsdsdaasdsadadsadasdads");
+                
+               
                 _boss._bossBrain.ChangeBossState(BossStates.Attack2);
             }
             //else if (randomint == 3)

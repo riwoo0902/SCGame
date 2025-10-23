@@ -1446,6 +1446,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: dc269870943a6c8488d0a92908d95885, type: 2}
   - {fileID: 11400000, guid: 217f34075dde7bb44b7a4ed2b2f21b67, type: 2}
   - {fileID: 11400000, guid: 306e7e5339465294cab8d0422731dc6b, type: 2}
+  _quizCount: 0
   <BossLaserPrefab>k__BackingField: {fileID: 4641120301773137929, guid: b15e54a51b30c7d4ca373e9dde20dfa7, type: 3}
   OnQuizEnd:
     m_PersistentCalls:
@@ -1461,7 +1462,7 @@ MonoBehaviour:
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
-        m_CallState: 2
+        m_CallState: 1
 --- !u!1 &1574132212
 GameObject:
   m_ObjectHideFlags: 0
